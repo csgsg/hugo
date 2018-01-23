@@ -1,8 +1,8 @@
-baseURL = "http://csgsg.github.io/hugo/"
+baseURL = "http://csgsg.github.io/"
 languageCode = "en-us"
 title = "UVa CSGSG"
 theme = "hugo-initio"
-publishDir = "docs"
+publishDir = "public"
 
 
 [params]
@@ -33,7 +33,7 @@ publishDir = "docs"
     weight = 1
 [[menu.main]]
     name = "Tea Time"
-    url = "/"
+    url = "teatime"
     weight = 2
 [[menu.main]]
     name = "Resources"
