@@ -1,0 +1,53 @@
+baseURL = "http://csgsg.github.io/hugo/"
+languageCode = "en-us"
+title = "UVa CSGSG"
+theme = "hugo-initio"
+publishDir = "docs"
+
+
+[params]
+    name = "CSGSG"
+    description = "Computer Science Department Graduate Student Group"
+    description2 = "at the University of Virginia"
+    address = "Engineer's Way, Charlottesville, VA 22904"
+    year = 2018
+    background = ""
+    favicon = "images/gt_favicon.png"
+    DateForm = "January 2, 2006"
+
+    showSubheader = false
+    showUpcoming = true
+    showRecentWorks = true
+    showDownload = true
+    showClients = true
+
+    footerEnableContact = true
+    footerEnableFollowme = true
+    footerEnableTextWidget = true
+    footerEnableFormWidget = true
+
+
+[[menu.main]]
+    name = "home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "Tea Time"
+    url = "/"
+    weight = 2
+[[menu.main]]
+    name = "Resources"
+    url = "/"
+    weight = 3
+[[menu.main]]
+    name = "Documents"
+    url = "/"
+    weight = 4
+[[menu.main]]
+    name = "blog"
+    url = "/posts/"
+    weight = 5
+[[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 6

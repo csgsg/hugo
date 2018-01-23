@@ -1,0 +1,28 @@
+[[card]]
+    name = 'Luther Tychonievich'
+    title = 'Faculty Advisor'
+    photo_url = 'https://engineering.virginia.edu/sites/default/files/styles/faculty_headshot/public/LutherTychonievich_headshot.jpg'
+    website = 'http://www.cs.virginia.edu/luther/'
+[[card]]
+    name = 'Ritambhara Singh'
+    title = 'Officer'
+    photo_url = "https://ritambharasingh.files.wordpress.com/2017/01/cropped-singhritambhara.jpg"
+    website = 'https://ritambharasingh.files.wordpress.com'
+[[card]]
+    name = 'Weilin Xu'
+    title = 'Officer'
+    photo_url = "https://xuweilin.org/images/weilin_thumbnail.JPG"
+    website = 'https://xuweilin.org'
+[[card]]
+    name = 'Jack Lanchantin'
+    title = 'Officer'
+    photo_url = "http://bme.virginia.edu/bds/JackL.jpg"
+    website = 'http://www.cs.virginia.edu/~jjl5sw/'
+[[card]]
+    name = 'Minbiao Han'
+    title = 'Officer'
+    photo_url = "http://www.cs.virginia.edu/~mh2ye//assets/img/MinbiaoHan.jpg"
+    website = "http://www.cs.virginia.edu/~mh2ye/"
+
+
+

@@ -1,0 +1,24 @@
+<div class="row section clients topspace">
+    <h2 class="section-title"><span>Steering Committee</span></h2>
+    <div class="col-lg-12">
+        <p>
+            <!-- <img src="images/sample_clients.png" alt=""> -->
+            <div class="row">
+                {{ range .Site.Data.officers.card }}
+                <div class="col-md-2">
+                        <a href="{{ .website }}">
+                        <img src="{{ .photo_url }}" alt="Lights" class="img-crop img-circle">
+                        <div class="caption">
+                          <p>{{ .name }} <br> {{ .title }} </p>
+
+                        </div>
+                        </a>
+                </div>
+                {{end}}
+
+
+            </div>
+
+        </p>
+    </div>
+</div> <!-- /section -->
