@@ -17,8 +17,8 @@ publishDir = "public"
 
     showSubheader = false
     showUpcoming = true
-    showRecentWorks = true
-    showDownload = true
+    showRecentWorks = false
+    showDownload = false
     showClients = true
 
     footerEnableContact = false
