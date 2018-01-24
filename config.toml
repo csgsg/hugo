@@ -21,10 +21,12 @@ publishDir = "public"
     showDownload = true
     showClients = true
 
-    footerEnableContact = true
-    footerEnableFollowme = true
-    footerEnableTextWidget = true
-    footerEnableFormWidget = true
+    footerEnableContact = false
+    footerEnableFollowme = false
+    footerEnableTextWidget = false
+    footerEnableFormWidget = false
+
+    google_analytics_trackerID = "UA-113000385-1"
 
 
 [[menu.main]]
@@ -33,20 +35,16 @@ publishDir = "public"
     weight = 1
 [[menu.main]]
     name = "Tea Time"
-    url = "teatime"
+    url = "/teatime"
     weight = 2
 [[menu.main]]
-    name = "Resources"
-    url = "/"
+    name = "Lounge"
+    url = "/lounge"
     weight = 3
-[[menu.main]]
-    name = "Documents"
-    url = "/"
-    weight = 4
 [[menu.main]]
     name = "blog"
     url = "/posts/"
-    weight = 5
+    weight = 4
 [[menu.main]]
     name = "About"
     url = "/about"

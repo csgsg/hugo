@@ -1,16 +1,20 @@
 ---
-title: "UVA CS Tea Time"
+title: "UVa CS Tea Time"
 date: 2018-01-23T09:56:32-05:00
 draft: false
 ---
 
 <!-- ![alt text](../images/tea_degree.png "Logo Title Text 1") -->
-<img src="../images/tea_degree.png" alt="Drawing" style="width: 200px;"/>
+<table class="image" align="right">
+<caption align="bottom">©Tango</caption>
+<tr><td><img src="../images/tea_degree.png" alt="Drawing" style="width: 150px;"/></td></tr>
+</table>
 
-©Tango
+
+<!-- ©Tango -->
 
 ## Schedule
-[need to be integrated later](https://xuweilin.org/teatime)
+[link](https://xuweilin.org/teatime) (need to be integrated later)
 
 ## Order Food
 
