@@ -12,7 +12,7 @@ publishDir = "public"
     address = "85 Engineer's Way, Charlottesville, VA 22904"
     year = 2018
     background = ""
-    favicon = "images/gt_favicon.png"
+    favicon = "images/favicon.ico"
     DateForm = "January 2, 2006"
 
     showSubheader = false
