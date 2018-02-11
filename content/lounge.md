@@ -14,6 +14,6 @@ The Graduate Student Lounge is room Rice 536, which is reserved from Wed though 
 
 **Time:** 12PM - 2PM
 
-![Rice536a](https://github.com/csgsg/hugo/blob/master/images/Rice563a.jpg) ![Rice536b](https://github.com/csgsg/hugo/blob/master/images/Rice536b.jpg)
+![Rice536a](https://github.com/csgsg/hugo/tree/master/static/images/Rice563a.jpg) ![Rice536b](https://github.com/csgsg/hugo/tree/master/static/images/Rice536b.jpg)
 
 P.S. If you have any cool ideas of how to make the lounge more comfortable (like adding board games etc.), please e-mail us and we will make it happen! :) 
