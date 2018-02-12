@@ -2,6 +2,7 @@
 title: "UVa CS Tea Time"
 date: 2018-01-23T09:56:32-05:00
 draft: false
+layout: "nodate"
 ---
 
 <table class="image" align="right">
