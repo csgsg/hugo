@@ -42,6 +42,10 @@ publishDir = "public"
     url = "/lounge"
     weight = 3
 [[menu.main]]
+    name = "Students"
+    url = "/students"
+    weight = 4
+[[menu.main]]
     name = "About"
     url = "/about"
     weight = 6

@@ -1,5 +1,6 @@
 {{ partial "header.html" . }}
 
+
 <main id="main">
 
 	<div class="container">
@@ -9,14 +10,53 @@
 
  				<article class="post">
 					<header class="entry-header">
- 						<div class="entry-meta">
- 							<span class="posted-on"><time class="entry-date published" date="{{ .Date }}">{{ dateFormat .Site.Params.DateForm .Date }}</time></span>
- 						</div>
  						<h1 class="entry-title"><a href="{{ .Permalink }}" rel="bookmark">{{ .Title }}</a></h1>
 					</header>
+
 					<div class="entry-content">
 						{{ .Content }}
 					</div>
+
+					<ul class="col-xs-12 media-list clearfix">
+						{{ $url := "data/students.csv" }}
+						{{ $sep := "," }}
+						{{ range $i, $r := getCSV $sep $url }}
+
+						{{ if eq (index $r 6) "" }}
+							{{ $.Scratch.Set "img_url" $.Site.BaseURL }}
+							{{ $.Scratch.Add "img_url" "images/blank.png" }}
+						{{ else }}
+							{{ $.Scratch.Set "img_url" (index $r 6) }}
+						{{ end }}
+						<li class="col-xs-6 col-sm-4 col-md-3">
+							<div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+								<div class="flipper">
+									<div class="front">
+										<a {{ if ne (index $r 7) ""}} href="{{ index $r 7 }}" {{end}} class=" photo-grid-photo-link">
+											<img src='{{ $.Scratch.Get "img_url" }}' data-retina-src='{{ $.Scratch.Get "img_url" }}' width="150" height="150" class="" alt="" style="object-fit: cover; border-radius: 6px; padding-bottom:0 !important" data-nonretina-src='{{ $.Scratch.Get "img_url" }}'>
+
+										</a>
+									</div>
+									<div class="back" style="height: 90px;">
+										<div>
+											<b>
+											<a {{ if ne (index $r 7) ""}} href="{{ index $r 7 }}" {{end}}>
+												{{ index $r 3 }}, {{ index $r 2 }}
+											</a>
+											</b>
+										</div>
+										<div class="header-color">{{ index $r 5 }} in {{ index $r 4 }} </div>
+										<!-- <div class="person-grid-extra-text">
+											<a href="mailto:{{ index $r 1 }}"><i class="fa fa-fw fa-envelope"></i>Email
+											</a>
+										</div> -->
+									</div>
+								</div>
+							</div>
+						</li>
+						{{ end }}
+					</ul>
+
 				</article><!-- #post-## -->
 
 			</div>
