@@ -1,7 +1,7 @@
 ---
 title: "Students"
 date: 2018-02-09T17:56:50-05:00
-draft: true
+draft: false
 layout: "photogrid"
 ---
 
