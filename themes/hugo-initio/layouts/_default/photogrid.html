@@ -31,7 +31,7 @@
 						<li class="col-xs-6 col-sm-4 col-md-3">
 							<div class="flip-container" ontouchstart="this.classList.toggle('hover');">
 								<div class="flipper">
-									<div class="front">
+									<div class="front" style="height: 150px;">
 										<a {{ if ne (index $r 7) ""}} href="{{ index $r 7 }}" {{end}} class=" photo-grid-photo-link">
 											<img src='{{ $.Scratch.Get "img_url" }}' data-retina-src='{{ $.Scratch.Get "img_url" }}' width="150" height="150" class="" alt="" style="object-fit: cover; border-radius: 6px; padding-bottom:0 !important" data-nonretina-src='{{ $.Scratch.Get "img_url" }}'>
 
