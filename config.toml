@@ -1,4 +1,4 @@
-baseURL = "http://csgsg.github.io/"
+baseURL = "//csgsg.org/"
 languageCode = "en-us"
 title = "UVa CSGSG"
 theme = "hugo-initio"
