@@ -22,7 +22,15 @@
 						{{ $sep := "," }}
 						{{ range $i, $r := getCSV $sep $url }}
 
-						{{ if eq (index $r 6) "" }}
+						{{ $email := index $r 1 }}
+						{{ $computing_id := strings.TrimSuffix "@virginia.edu" $email }}
+						{{ $local_img_path := printf "static/images/students/%s.jpg" $computing_id }}
+						{{ $img_path := printf "images/students/%s.jpg" $computing_id  }}
+
+						{{ if (fileExists $local_img_path) }}
+							{{ $.Scratch.Set "img_url" $.Site.BaseURL }}
+							{{ $.Scratch.Add "img_url" $img_path }}
+						{{ else if eq (index $r 6) "" }}
 							{{ $.Scratch.Set "img_url" $.Site.BaseURL }}
 							{{ $.Scratch.Add "img_url" "images/blank.png" }}
 						{{ else }}

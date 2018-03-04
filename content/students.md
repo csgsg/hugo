@@ -5,4 +5,4 @@ draft: false
 layout: "photogrid"
 ---
 
-*Please fill [the form](https://docs.google.com/forms/d/e/1FAIpQLSfOwxlFL-IQtFKf4Gk91dJPtyZbqzwBhNmgO6TcAIkT3z4tpg/viewform) here if you want to update your information.*
+**Please fill [the form here](https://docs.google.com/forms/d/e/1FAIpQLSfOwxlFL-IQtFKf4Gk91dJPtyZbqzwBhNmgO6TcAIkT3z4tpg/viewform) if you want to update your information. Weilin will apply all updates weekly.**
