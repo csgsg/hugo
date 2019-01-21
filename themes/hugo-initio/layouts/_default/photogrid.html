@@ -17,8 +17,352 @@
 						{{ .Content }}
 					</div>
 
+					<h2> Started in 2018 </h2>
 					<ul class="col-xs-12 media-list clearfix">
-						{{ $url := "data/students.csv" }}
+						{{ $url := "data/students/students_2018.csv" }}
+						{{ $sep := "," }}
+						{{ range $i, $r := getCSV $sep $url }}
+
+						{{ $email := index $r 1 }}
+						{{ $computing_id := strings.TrimSuffix "@virginia.edu" $email }}
+						{{ $local_img_path := printf "static/images/students/%s.jpg" $computing_id }}
+						{{ $img_path := printf "images/students/%s.jpg" $computing_id  }}
+
+						{{ if (fileExists $local_img_path) }}
+							{{ $.Scratch.Set "img_url" $.Site.BaseURL }}
+							{{ $.Scratch.Add "img_url" $img_path }}
+						{{ else if eq (index $r 6) "" }}
+							{{ $.Scratch.Set "img_url" $.Site.BaseURL }}
+							{{ $.Scratch.Add "img_url" "images/blank.png" }}
+						{{ else }}
+							{{ $.Scratch.Set "img_url" (index $r 6) }}
+						{{ end }}
+						<li class="col-xs-6 col-sm-4 col-md-3">
+							<div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+								<div class="flipper">
+									<div class="front" style="height: 150px;">
+										<a {{ if ne (index $r 7) ""}} href="{{ index $r 7 }}" {{end}} class=" photo-grid-photo-link">
+											<img src='{{ $.Scratch.Get "img_url" }}' data-retina-src='{{ $.Scratch.Get "img_url" }}' width="150" height="150" class="" alt="" style="object-fit: cover; border-radius: 6px; padding-bottom:0 !important" data-nonretina-src='{{ $.Scratch.Get "img_url" }}'>
+
+										</a>
+									</div>
+									<div class="back" style="height: 90px;">
+										<div>
+											<b>
+											<a {{ if ne (index $r 7) ""}} href="{{ index $r 7 }}" {{end}}>
+												{{ index $r 3 }}, {{ index $r 2 }}
+											</a>
+											</b>
+										</div>
+										<div class="header-color">{{ index $r 5 }} in {{ index $r 4 }} </div>
+										<!-- <div class="person-grid-extra-text">
+											<a href="mailto:{{ index $r 1 }}"><i class="fa fa-fw fa-envelope"></i>Email
+											</a>
+										</div> -->
+									</div>
+								</div>
+							</div>
+						</li>
+						{{ end }}
+					</ul>
+
+					<h2> Started in 2017 </h2>
+					<ul class="col-xs-12 media-list clearfix">
+						{{ $url := "data/students/students_2017.csv" }}
+						{{ $sep := "," }}
+						{{ range $i, $r := getCSV $sep $url }}
+
+						{{ $email := index $r 1 }}
+						{{ $computing_id := strings.TrimSuffix "@virginia.edu" $email }}
+						{{ $local_img_path := printf "static/images/students/%s.jpg" $computing_id }}
+						{{ $img_path := printf "images/students/%s.jpg" $computing_id  }}
+
+						{{ if (fileExists $local_img_path) }}
+							{{ $.Scratch.Set "img_url" $.Site.BaseURL }}
+							{{ $.Scratch.Add "img_url" $img_path }}
+						{{ else if eq (index $r 6) "" }}
+							{{ $.Scratch.Set "img_url" $.Site.BaseURL }}
+							{{ $.Scratch.Add "img_url" "images/blank.png" }}
+						{{ else }}
+							{{ $.Scratch.Set "img_url" (index $r 6) }}
+						{{ end }}
+						<li class="col-xs-6 col-sm-4 col-md-3">
+							<div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+								<div class="flipper">
+									<div class="front" style="height: 150px;">
+										<a {{ if ne (index $r 7) ""}} href="{{ index $r 7 }}" {{end}} class=" photo-grid-photo-link">
+											<img src='{{ $.Scratch.Get "img_url" }}' data-retina-src='{{ $.Scratch.Get "img_url" }}' width="150" height="150" class="" alt="" style="object-fit: cover; border-radius: 6px; padding-bottom:0 !important" data-nonretina-src='{{ $.Scratch.Get "img_url" }}'>
+
+										</a>
+									</div>
+									<div class="back" style="height: 90px;">
+										<div>
+											<b>
+											<a {{ if ne (index $r 7) ""}} href="{{ index $r 7 }}" {{end}}>
+												{{ index $r 3 }}, {{ index $r 2 }}
+											</a>
+											</b>
+										</div>
+										<div class="header-color">{{ index $r 5 }} in {{ index $r 4 }} </div>
+										<!-- <div class="person-grid-extra-text">
+											<a href="mailto:{{ index $r 1 }}"><i class="fa fa-fw fa-envelope"></i>Email
+											</a>
+										</div> -->
+									</div>
+								</div>
+							</div>
+						</li>
+						{{ end }}
+					</ul>
+
+					<h2> Started in 2016 </h2>
+					<ul class="col-xs-12 media-list clearfix">
+						{{ $url := "data/students/students_2016.csv" }}
+						{{ $sep := "," }}
+						{{ range $i, $r := getCSV $sep $url }}
+
+						{{ $email := index $r 1 }}
+						{{ $computing_id := strings.TrimSuffix "@virginia.edu" $email }}
+						{{ $local_img_path := printf "static/images/students/%s.jpg" $computing_id }}
+						{{ $img_path := printf "images/students/%s.jpg" $computing_id  }}
+
+						{{ if (fileExists $local_img_path) }}
+							{{ $.Scratch.Set "img_url" $.Site.BaseURL }}
+							{{ $.Scratch.Add "img_url" $img_path }}
+						{{ else if eq (index $r 6) "" }}
+							{{ $.Scratch.Set "img_url" $.Site.BaseURL }}
+							{{ $.Scratch.Add "img_url" "images/blank.png" }}
+						{{ else }}
+							{{ $.Scratch.Set "img_url" (index $r 6) }}
+						{{ end }}
+						<li class="col-xs-6 col-sm-4 col-md-3">
+							<div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+								<div class="flipper">
+									<div class="front" style="height: 150px;">
+										<a {{ if ne (index $r 7) ""}} href="{{ index $r 7 }}" {{end}} class=" photo-grid-photo-link">
+											<img src='{{ $.Scratch.Get "img_url" }}' data-retina-src='{{ $.Scratch.Get "img_url" }}' width="150" height="150" class="" alt="" style="object-fit: cover; border-radius: 6px; padding-bottom:0 !important" data-nonretina-src='{{ $.Scratch.Get "img_url" }}'>
+
+										</a>
+									</div>
+									<div class="back" style="height: 90px;">
+										<div>
+											<b>
+											<a {{ if ne (index $r 7) ""}} href="{{ index $r 7 }}" {{end}}>
+												{{ index $r 3 }}, {{ index $r 2 }}
+											</a>
+											</b>
+										</div>
+										<div class="header-color">{{ index $r 5 }} in {{ index $r 4 }} </div>
+										<!-- <div class="person-grid-extra-text">
+											<a href="mailto:{{ index $r 1 }}"><i class="fa fa-fw fa-envelope"></i>Email
+											</a>
+										</div> -->
+									</div>
+								</div>
+							</div>
+						</li>
+						{{ end }}
+					</ul>
+
+					<h2> Started in 2015 </h2>
+					<ul class="col-xs-12 media-list clearfix">
+						{{ $url := "data/students/students_2015.csv" }}
+						{{ $sep := "," }}
+						{{ range $i, $r := getCSV $sep $url }}
+
+						{{ $email := index $r 1 }}
+						{{ $computing_id := strings.TrimSuffix "@virginia.edu" $email }}
+						{{ $local_img_path := printf "static/images/students/%s.jpg" $computing_id }}
+						{{ $img_path := printf "images/students/%s.jpg" $computing_id  }}
+
+						{{ if (fileExists $local_img_path) }}
+							{{ $.Scratch.Set "img_url" $.Site.BaseURL }}
+							{{ $.Scratch.Add "img_url" $img_path }}
+						{{ else if eq (index $r 6) "" }}
+							{{ $.Scratch.Set "img_url" $.Site.BaseURL }}
+							{{ $.Scratch.Add "img_url" "images/blank.png" }}
+						{{ else }}
+							{{ $.Scratch.Set "img_url" (index $r 6) }}
+						{{ end }}
+						<li class="col-xs-6 col-sm-4 col-md-3">
+							<div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+								<div class="flipper">
+									<div class="front" style="height: 150px;">
+										<a {{ if ne (index $r 7) ""}} href="{{ index $r 7 }}" {{end}} class=" photo-grid-photo-link">
+											<img src='{{ $.Scratch.Get "img_url" }}' data-retina-src='{{ $.Scratch.Get "img_url" }}' width="150" height="150" class="" alt="" style="object-fit: cover; border-radius: 6px; padding-bottom:0 !important" data-nonretina-src='{{ $.Scratch.Get "img_url" }}'>
+
+										</a>
+									</div>
+									<div class="back" style="height: 90px;">
+										<div>
+											<b>
+											<a {{ if ne (index $r 7) ""}} href="{{ index $r 7 }}" {{end}}>
+												{{ index $r 3 }}, {{ index $r 2 }}
+											</a>
+											</b>
+										</div>
+										<div class="header-color">{{ index $r 5 }} in {{ index $r 4 }} </div>
+										<!-- <div class="person-grid-extra-text">
+											<a href="mailto:{{ index $r 1 }}"><i class="fa fa-fw fa-envelope"></i>Email
+											</a>
+										</div> -->
+									</div>
+								</div>
+							</div>
+						</li>
+						{{ end }}
+					</ul>
+
+					<h2> Started in 2014 </h2>
+					<ul class="col-xs-12 media-list clearfix">
+						{{ $url := "data/students/students_2014.csv" }}
+						{{ $sep := "," }}
+						{{ range $i, $r := getCSV $sep $url }}
+
+						{{ $email := index $r 1 }}
+						{{ $computing_id := strings.TrimSuffix "@virginia.edu" $email }}
+						{{ $local_img_path := printf "static/images/students/%s.jpg" $computing_id }}
+						{{ $img_path := printf "images/students/%s.jpg" $computing_id  }}
+
+						{{ if (fileExists $local_img_path) }}
+							{{ $.Scratch.Set "img_url" $.Site.BaseURL }}
+							{{ $.Scratch.Add "img_url" $img_path }}
+						{{ else if eq (index $r 6) "" }}
+							{{ $.Scratch.Set "img_url" $.Site.BaseURL }}
+							{{ $.Scratch.Add "img_url" "images/blank.png" }}
+						{{ else }}
+							{{ $.Scratch.Set "img_url" (index $r 6) }}
+						{{ end }}
+						<li class="col-xs-6 col-sm-4 col-md-3">
+							<div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+								<div class="flipper">
+									<div class="front" style="height: 150px;">
+										<a {{ if ne (index $r 7) ""}} href="{{ index $r 7 }}" {{end}} class=" photo-grid-photo-link">
+											<img src='{{ $.Scratch.Get "img_url" }}' data-retina-src='{{ $.Scratch.Get "img_url" }}' width="150" height="150" class="" alt="" style="object-fit: cover; border-radius: 6px; padding-bottom:0 !important" data-nonretina-src='{{ $.Scratch.Get "img_url" }}'>
+
+										</a>
+									</div>
+									<div class="back" style="height: 90px;">
+										<div>
+											<b>
+											<a {{ if ne (index $r 7) ""}} href="{{ index $r 7 }}" {{end}}>
+												{{ index $r 3 }}, {{ index $r 2 }}
+											</a>
+											</b>
+										</div>
+										<div class="header-color">{{ index $r 5 }} in {{ index $r 4 }} </div>
+										<!-- <div class="person-grid-extra-text">
+											<a href="mailto:{{ index $r 1 }}"><i class="fa fa-fw fa-envelope"></i>Email
+											</a>
+										</div> -->
+									</div>
+								</div>
+							</div>
+						</li>
+						{{ end }}
+					</ul>
+
+					<h2> Started before 2014 </h2>
+					<ul class="col-xs-12 media-list clearfix">
+						{{ $url := "data/students/students_before2014.csv" }}
+						{{ $sep := "," }}
+						{{ range $i, $r := getCSV $sep $url }}
+
+						{{ $email := index $r 1 }}
+						{{ $computing_id := strings.TrimSuffix "@virginia.edu" $email }}
+						{{ $local_img_path := printf "static/images/students/%s.jpg" $computing_id }}
+						{{ $img_path := printf "images/students/%s.jpg" $computing_id  }}
+
+						{{ if (fileExists $local_img_path) }}
+							{{ $.Scratch.Set "img_url" $.Site.BaseURL }}
+							{{ $.Scratch.Add "img_url" $img_path }}
+						{{ else if eq (index $r 6) "" }}
+							{{ $.Scratch.Set "img_url" $.Site.BaseURL }}
+							{{ $.Scratch.Add "img_url" "images/blank.png" }}
+						{{ else }}
+							{{ $.Scratch.Set "img_url" (index $r 6) }}
+						{{ end }}
+						<li class="col-xs-6 col-sm-4 col-md-3">
+							<div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+								<div class="flipper">
+									<div class="front" style="height: 150px;">
+										<a {{ if ne (index $r 7) ""}} href="{{ index $r 7 }}" {{end}} class=" photo-grid-photo-link">
+											<img src='{{ $.Scratch.Get "img_url" }}' data-retina-src='{{ $.Scratch.Get "img_url" }}' width="150" height="150" class="" alt="" style="object-fit: cover; border-radius: 6px; padding-bottom:0 !important" data-nonretina-src='{{ $.Scratch.Get "img_url" }}'>
+
+										</a>
+									</div>
+									<div class="back" style="height: 90px;">
+										<div>
+											<b>
+											<a {{ if ne (index $r 7) ""}} href="{{ index $r 7 }}" {{end}}>
+												{{ index $r 3 }}, {{ index $r 2 }}
+											</a>
+											</b>
+										</div>
+										<div class="header-color">{{ index $r 5 }} in {{ index $r 4 }} </div>
+										<!-- <div class="person-grid-extra-text">
+											<a href="mailto:{{ index $r 1 }}"><i class="fa fa-fw fa-envelope"></i>Email
+											</a>
+										</div> -->
+									</div>
+								</div>
+							</div>
+						</li>
+						{{ end }}
+					</ul>
+
+					<h2> Started in [Unknown] </h2>
+					<ul class="col-xs-12 media-list clearfix">
+						{{ $url := "data/students/students_0.csv" }}
+						{{ $sep := "," }}
+						{{ range $i, $r := getCSV $sep $url }}
+
+						{{ $email := index $r 1 }}
+						{{ $computing_id := strings.TrimSuffix "@virginia.edu" $email }}
+						{{ $local_img_path := printf "static/images/students/%s.jpg" $computing_id }}
+						{{ $img_path := printf "images/students/%s.jpg" $computing_id  }}
+
+						{{ if (fileExists $local_img_path) }}
+							{{ $.Scratch.Set "img_url" $.Site.BaseURL }}
+							{{ $.Scratch.Add "img_url" $img_path }}
+						{{ else if eq (index $r 6) "" }}
+							{{ $.Scratch.Set "img_url" $.Site.BaseURL }}
+							{{ $.Scratch.Add "img_url" "images/blank.png" }}
+						{{ else }}
+							{{ $.Scratch.Set "img_url" (index $r 6) }}
+						{{ end }}
+						<li class="col-xs-6 col-sm-4 col-md-3">
+							<div class="flip-container" ontouchstart="this.classList.toggle('hover');">
+								<div class="flipper">
+									<div class="front" style="height: 150px;">
+										<a {{ if ne (index $r 7) ""}} href="{{ index $r 7 }}" {{end}} class=" photo-grid-photo-link">
+											<img src='{{ $.Scratch.Get "img_url" }}' data-retina-src='{{ $.Scratch.Get "img_url" }}' width="150" height="150" class="" alt="" style="object-fit: cover; border-radius: 6px; padding-bottom:0 !important" data-nonretina-src='{{ $.Scratch.Get "img_url" }}'>
+
+										</a>
+									</div>
+									<div class="back" style="height: 90px;">
+										<div>
+											<b>
+											<a {{ if ne (index $r 7) ""}} href="{{ index $r 7 }}" {{end}}>
+												{{ index $r 3 }}, {{ index $r 2 }}
+											</a>
+											</b>
+										</div>
+										<div class="header-color">{{ index $r 5 }} in {{ index $r 4 }} </div>
+										<!-- <div class="person-grid-extra-text">
+											<a href="mailto:{{ index $r 1 }}"><i class="fa fa-fw fa-envelope"></i>Email
+											</a>
+										</div> -->
+									</div>
+								</div>
+							</div>
+						</li>
+						{{ end }}
+					</ul>
+
+					<h2> Alumni </h2>
+					<ul class="col-xs-12 media-list clearfix">
+						{{ $url := "data/students/students_alumni.csv" }}
 						{{ $sep := "," }}
 						{{ range $i, $r := getCSV $sep $url }}
 
