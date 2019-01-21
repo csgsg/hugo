@@ -1,28 +1,27 @@
 [[card]]
-    name = 'Luther Tychonievich'
+    name = 'Robbie Hott'
     title = 'Faculty Advisor'
-    photo_url = 'images/committee/luther.jpg'
-    website = 'http://www.cs.virginia.edu/luther/'
-[[card]]
-    name = 'Ritambhara Singh'
-    title = 'Officer'
-    photo_url = "images/committee/rita.jpg"
-    website = 'https://ritambharasingh.files.wordpress.com'
+    photo_url = 'images/committee/robbie_hott.jpg'
+    website = 'http://www.cs.virginia.edu/~jh2jf/'
 [[card]]
     name = 'Weilin Xu'
-    title = 'Officer'
+    title = 'Systems Rep'
     photo_url = "images/committee/weilin.jpg"
     website = 'https://xuweilin.org'
 [[card]]
     name = 'Jack Lanchantin'
-    title = 'Officer'
+    title = 'Grad Program Rep'
     photo_url = "images/committee/jack.jpg"
     website = 'http://www.cs.virginia.edu/~jjl5sw/'
 [[card]]
     name = 'Minbiao Han'
-    title = 'Officer'
+    title = 'Space Rep'
     photo_url = "images/committee/minbiao.jpg"
     website = "http://www.cs.virginia.edu/~mh2ye/"
-
+[[card]]
+    name = 'Qingyun Wu'
+    title = 'Diversity Rep & TeaTime Czar'
+    photo_url = "images/committee/qingyun.jpg"
+    website = 'http://www.people.virginia.edu/~qw2ky/'
 
 
