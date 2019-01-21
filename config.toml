@@ -34,6 +34,10 @@ publishDir = "public"
     url = "/"
     weight = 1
 [[menu.main]]
+    name = "2018 Election"
+    url = "/election"
+    weight = 2
+[[menu.main]]
     name = "Tea Time"
     url = "/teatime"
     weight = 2
