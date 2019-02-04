@@ -4,9 +4,9 @@
     photo_url = 'images/committee/robbie_hott.jpg'
     website = 'http://www.cs.virginia.edu/~jh2jf/'
 [[card]]
-    name = 'Weilin Xu'
+    name = 'Ashley Gao'
     title = 'Systems Rep'
-    photo_url = "images/committee/weilin.jpg"
+    photo_url = "images/blank.png"
     website = 'https://xuweilin.org'
 [[card]]
     name = 'Jack Lanchantin'

@@ -34,10 +34,6 @@ publishDir = "public"
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "2018 Election"
-    url = "/election"
-    weight = 2
-[[menu.main]]
     name = "Tea Time"
     url = "/teatime"
     weight = 2
@@ -45,10 +41,6 @@ publishDir = "public"
     name = "Lounge"
     url = "/lounge"
     weight = 3
-[[menu.main]]
-    name = "Students"
-    url = "/students"
-    weight = 4
 [[menu.main]]
     name = "About"
     url = "/about"
