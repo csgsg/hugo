@@ -1,5 +1,0 @@
-[submodule "public"]
-	path = public
-	#url = git@github.com:csgsg/csgsg.github.io.git
-	url = https://github.com/csgsg/csgsg.github.io
-	branch = master
