@@ -1,6 +1,7 @@
 ### Setup
 ```
 git clone --recurse-submodules https://github.com/csgsg/hugo
+cd hugo
 cd public
 git checkout master
 cd ..
