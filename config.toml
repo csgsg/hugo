@@ -45,3 +45,7 @@ publishDir = "public"
     name = "About"
     url = "/about"
     weight = 6
+[[menu.main]]
+    name = "Symposium"
+    url = "/symposium"
+    weight = 7
