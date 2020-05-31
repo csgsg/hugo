@@ -8,9 +8,12 @@ As a result of the pandemic, CSGSG is hosting a CS Department Virtual Research S
 
 **Date:** Friday, June 5th 2020
 
+**Schedule:** TBD
+
+**Student Bios:** View the student bios [here](/sympbios)
+
 **Organizing Committe:** 
 <br>Omkar Bhat, Prathyush Sambaturu, and Ruchir Shah
 <br>CSGSG:
 <br>Soneya Binta Hossain, Ingy Elsayed-Aly, Josie Lamp, Aidan San, Yasas Senevirathne, and Lingxi Wu
 
-**Schedule:** TBD
