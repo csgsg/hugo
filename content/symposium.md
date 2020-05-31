@@ -4,17 +4,13 @@ date: 2018-01-23T12:36:21-05:00
 draft: false
 layout: "nodate"
 ---
-Testing a change 4
-The Graduate Student Lounge is room Rice 536, which is reserved from Wed though Friday from 12PM to 2PM every week. Feel free to use this space when taking a break from the gruelling working hours of the day. Have lunch with your friends (real or imaginary), hold philosophical discussion ("What is meaning of life?"), or try and find zen (if you believe it exists). 
+As a result of the pandemic, CSGSG is hosting a CS Department Virtual Research Symposium on  June 5th. The symposium is meant to allow everyone to learn about each other’s research and boost morale. The symposium will feature faculty introduction talks and short student research presentations for each of the core CS research areas.
 
-**Location:** Rice 536
+**Date:** Friday, June 5th 2020
 
+**Organizing Committe:** 
+<br>Omkar Bhat, Prathyush Sambaturu, and Ruchir Shah
+<br>CSGSG:
+<br>Soneya Binta Hossain, Ingy Elsayed-Aly, Josie Lamp, Aidan San, Yasas Senevirathne, and Lingxi Wu
 
-**Days:** Wednesday, Thursday, and Friday (every week)
-
-
-**Time:** 12PM - 2PM
-
-![Rice536a](/images/Rice536a.jpg)
-
-P.S. If you have any cool ideas of how to make the lounge more comfortable (like adding board games etc.), please e-mail us and we will make it happen! :) 
+**Schedule:** TBD

@@ -15,8 +15,8 @@ The goals of the CSGSG are to represent the CS/CPE graduate student body as well
 
 The Steering Committee consists of a Faculty Advisor and 3-4 graduate students as officers. The CSGSG Steering Comittee is usually the line of communication between the students and the department. We also organize various social/academic events and represent the department in other student orgnizations. 
 
-### Ombudsman
+### Ombudsperson
 
-It is also important that all students are aware of the Ombudsman. The Ombudsman is a member of the CS faculty that helps students with issues that they may have with faculty or administration. Conversations with them are kept confidential, so if you have any concerns or difficulties that you don't feel comfortable going to your advisor with, contact the Ombudsman or any of your CSGSG officers. The current Ombudsman is [Professor Gabriel Robbins](https://www.cs.virginia.edu/~robins/).
+It is also important that all students are aware of the Ombudsperson. The Ombudsperson is a member of the CS faculty that helps students with issues that they may have with faculty or administration. Conversations with them are kept confidential, so if you have any concerns or difficulties that you don't feel comfortable going to your advisor with, contact the Ombudsperson or any of your CSGSG officers. The current Ombudsman is [Professor Sebastian Elbaum](http://www.cs.virginia.edu/~se4ja/).
 
 **For more information:** [CSGSG Charter](/documents/CSGSGSC_Charter.pdf)

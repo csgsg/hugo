@@ -1,27 +1,42 @@
 [[card]]
+    name = 'Josie Lamp'
+    title = 'Chair'
+    photo_url = "images/committee/josie.jpg"
+    website = 'https://www.josephinelamp.com/'
+[[card]]
+    name = 'Soneya Binta Hossain'
+    title = 'Leadership Chair'
+    photo_url = "images/committee/soneya.png"
+    website = ''
+[[card]]
+    name = 'Ingy Elsayed-Aly'
+    title = 'Social Chair'
+    photo_url = "images/committee/ingy.jpeg"
+    website = ""
+[[card]]
+    name = 'Aidan San'
+    title = 'Space Chair'
+    photo_url = "images/committee/aidan.jpg"
+    website = 'https://aidansan.github.io/'
+[[card]]
+    name = 'Yasas Senevirathne'
+    title = 'Diversity Rep'
+    photo_url = "images/blank.png"
+    website = ''
+[[card]]
+    name = 'Lingxi Wu'
+    title = 'Grad Program Rep'
+    photo_url = "images/blank.png"
+    website = ''
+[[card]]
     name = 'Robbie Hott'
     title = 'Faculty Advisor'
     photo_url = 'images/committee/robbie_hott.jpg'
     website = 'http://www.cs.virginia.edu/~jh2jf/'
 [[card]]
-    name = 'Ashley Gao'
-    title = 'Systems Rep'
-    photo_url = "images/blank.png"
-    website = 'https://xuweilin.org'
-[[card]]
-    name = 'Jack Lanchantin'
-    title = 'Grad Program Rep'
-    photo_url = "images/committee/jack.jpg"
-    website = 'http://www.cs.virginia.edu/~jjl5sw/'
-[[card]]
-    name = 'Minbiao Han'
-    title = 'Space Rep'
-    photo_url = "images/committee/minbiao.jpg"
-    website = "http://www.cs.virginia.edu/~mh2ye/"
-[[card]]
-    name = 'Qingyun Wu'
-    title = 'Diversity Rep & TeaTime Czar'
-    photo_url = "images/committee/qingyun.jpg"
-    website = 'http://www.people.virginia.edu/~qw2ky/'
+    name = 'Sebastian Elbaum'
+    title = 'Omsbudsperson'
+    photo_url = "images/committee/sebastian.jpg"
+    website = 'http://www.cs.virginia.edu/~se4ja/'
 
 
