@@ -9,13 +9,24 @@ layout: "nodate"
 **Zoom Link:** https://virginia.zoom.us/j/92206525927  
 Meeting ID: 922 0652 5927
 
-
+**Symposium Overview**  
 As a result of the pandemic, CSGSG is hosting a CS Department Virtual Research Symposium on  June 5th. The symposium is meant to allow everyone to learn about each other’s research and boost morale. The symposium will feature faculty introduction talks and short student research presentations for each of the core CS research areas.
+
+
+**Awards**  
+Awards will be given to the top 2 best talks in each session. Student talks will be reviewed by a student review committee and by all who attended the talk using a 5 question survey. The students will be reviewed based on the following characteristics, using a score of 1-5 with 5 being the best:
+- Understandability: Presentation is attainable for a general audience
+- Clarity of Presentation: Structure and organization of talk and quality of presentation materials result in a clear, cohesive presentation
+- Science Communication: Time management, speaker confidence, and communication ability
+- Motivation & Importance: Speaker motivates clearly the novelty and importance of the research
+- Question Session: Ability of speaker to handle question session  
+
+Awardees will receive some nice UVA swag such as hot/cold drink container, stylus writing pen, tote or lunch cooler, etc. The swag will be mailed to our winners.
 
 
 ## Schedule
 
-Student talks are 5 minutes with 5 minutes for questions, submitting speaker reviews and transitioning to the next speaker. Faculty talks will be 20-25 minutes with the remaining time left for questions. 
+Student talks are 5 minutes with 5 minutes for questions, submitting speaker reviews and transitioning to the next speaker. Faculty talks will be 20-25 minutes with the remaining time left for questions.
 
 
 **Introduction & Opening**  
