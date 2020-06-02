@@ -6,14 +6,13 @@ layout: "nodate"
 ---
 As a result of the pandemic, CSGSG is hosting a CS Department Virtual Research Symposium on  June 5th. The symposium is meant to allow everyone to learn about each other’s research and boost morale. The symposium will feature faculty introduction talks and short student research presentations for each of the core CS research areas.
 
-**Date:** Friday, June 5th 2020
+**Date:** TEST Friday, June 5th 2020
 
 **Schedule:** TBD
 
 **Student Bios:** View the student bios [here](/sympbios)
 
-**Organizing Committe:** 
+**Organizing Committe:**
 <br>Omkar Bhat, Prathyush Sambaturu, and Ruchir Shah
 <br>CSGSG:
 <br>Soneya Binta Hossain, Ingy Elsayed-Aly, Josie Lamp, Aidan San, Yasas Senevirathne, and Lingxi Wu
-
