@@ -65,8 +65,8 @@ Student talks are 5 minutes with 5 minutes for questions, submitting speaker rev
 | :---        |     :----   |
 |`11:55am`       |  Session Start |
 |`12:00-12:10pm`  |   Andrew Elsey: Runtime Monitors to Enforce the Physical Semantics of Code|
-|`12:15-12:25pm`  |   Yasas Seneviratne: Reducing Persistence Overhead with Processing in Memory (PIM)|
-|`12:30-12:40pm`  |  Korakit Seemakupt: PMSwitch: In-Network Data Persistence|
+|`12:15-12:25pm`  |   Yasas Seneviratne: In-Memory Processing with Resistive Memories|
+|`12:30-12:40pm`  |  Korakit Seemakupt: Integrating Persistent Memory into Networked Systems|
 |`12:45-12:55pm`   |  Sihang Liu: A Holistic System Support for Persistent Memory Systems|
 |`1:00-1:30pm`     |    🔥Faculty Presentation: Yixin Sun🔥|
 | `15 Minute Break` |
