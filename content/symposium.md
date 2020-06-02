@@ -15,15 +15,7 @@ As a result of the pandemic, CSGSG is hosting a CS Department Virtual Research S
 
 ## Schedule
 
-<!-- | `Introduction & Opening` Josie Lamp    |
-| :---        |     ----:   |
-| Header      | Title       |
-| Paragraph   | Text        | -->
-
-<!-- Column 1 | Column 2 | Column 3
---- | --- | ---
-**Things** | _Don't_ | [Need](http://makeuseof.com)
-To | *__Look__* | `Pretty` -->
+Student talks are 5 minutes with 5 minutes for questions, submitting speaker reviews and transitioning to the next speaker. Faculty talks will be 20-25 minutes with the remaining time left for questions. 
 
 
 **Introduction & Opening**  
