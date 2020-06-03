@@ -51,7 +51,7 @@ Student talks are 5 minutes with 5 minutes for questions, submitting speaker rev
 | `10:00-10:10am`   |  Josie Lamp: Association of Hemodynamic Trajectories and Outcomes in Advanced Heart Failure-Phenotyping Patients Using Signal Temporal Logic |
 |   `15 Minute Break`  |
 | `10:25-10:35am`   |  Jing Ma: Deconfounding with Networked Observational Data in a Dynamic Environment |
-| `10:45-11:15am`  |  🔥Faculty Presentation: Yangfeng Ji|
+| `10:45-11:15am`  |  🔥Faculty Presentation: Yangfeng Ji - Exploring the Potential of Language Technology for Human-AI Collaboration|
 
 ***
 40 Minute Session Break
