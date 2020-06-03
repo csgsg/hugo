@@ -30,12 +30,12 @@ Student talks are 5 minutes with 5 minutes for questions, submitting speaker rev
 
 
 **Introduction & Opening**  
-*Josie Lamp*  
+*Kevin Skadron & Josie Lamp*  
 
 
 |             |             |
 | :---        |     ----:   |
-| `9:00am`      | Symposium Start       |
+| `8:45am`      | Symposium Start       |
 |    |         |
 
 ***
