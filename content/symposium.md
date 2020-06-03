@@ -46,12 +46,12 @@ Student talks are 5 minutes with 5 minutes for questions, submitting speaker rev
 |             |             |
 | :---        |     :----   |
 |`9:05am`          |   Session Start |
-|`9:10-9:40am`     |    🔥Faculty Presentation: Seongkook Heo🔥 |
+|`9:10-9:40am`     |    🔥Faculty Presentation: Seongkook Heo - User Interface for Future Computers |
 |`9:45-9:55am`    |    Wen Ying: Evaluation of Touch Gesture Performance on Surfaces in VR |
 | `10:00-10:10am`   |  Josie Lamp: Association of Hemodynamic Trajectories and Outcomes in Advanced Heart Failure-Phenotyping Patients Using Signal Temporal Logic |
 |   `15 Minute Break`  |
 | `10:25-10:35am`   |  Jing Ma: Deconfounding with Networked Observational Data in a Dynamic Environment |
-| `10:45-11:15am`  |  🔥Faculty Presentation: Yangfeng Ji🔥|
+| `10:45-11:15am`  |  🔥Faculty Presentation: Yangfeng Ji|
 
 ***
 40 Minute Session Break
@@ -67,10 +67,10 @@ Student talks are 5 minutes with 5 minutes for questions, submitting speaker rev
 |`12:15-12:25pm`  |   Yasas Seneviratne: In-Memory Processing with Resistive Memories|
 |`12:30-12:40pm`  |  Korakit Seemakupt: Integrating Persistent Memory into Networked Systems|
 |`12:45-12:55pm`   |  Sihang Liu: A Holistic System Support for Persistent Memory Systems|
-|`1:00-1:30pm`     |    🔥Faculty Presentation: Yixin Sun🔥|
+|`1:00-1:30pm`     |    🔥Faculty Presentation: Yixin Sun|
 | `15 Minute Break` |
 |`1:45-1:55pm`      |   Wenqiang Chen: Vibration Intelligence in Cyber-Physical systems|
-|`2:00-2:30pm`      |   🔥Faculty Presentation: Yuan Tian🔥|
+|`2:00-2:30pm`      |   🔥Faculty Presentation: Yuan Tian|
 
 ***
 10 Minute Session Break
