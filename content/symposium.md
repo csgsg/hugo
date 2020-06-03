@@ -74,7 +74,7 @@ Student talks are 5 minutes with 5 minutes for questions, submitting speaker rev
 |`2:00-2:30pm`      |   🔥Faculty Presentation: Yuan Tian🔥|
 
 ***
-30 Minute Session Break
+10 Minute Session Break
 ***
 
 **Session 3: Software Engineering and Theory**  
@@ -82,14 +82,14 @@ Student talks are 5 minutes with 5 minutes for questions, submitting speaker rev
 
 |             |             |
 | :---        |     :----   |
-|`3:00pm`       | Session Start|
-|`3:05-3:15pm`     |    🔥Faculty Presentation: Felix Xiaozhu Lin🔥|
+|`2:40pm`       | Session Start|
+|`3:05-3:15pm`     |    🔥Faculty Presentation: Felix Xiaozhu Lin - OS frontiers in the AI era|
 |`3:20-3:30pm`     |    Meriel Stein: Fault Isolation for Autonomous Cyberphysical Systems|
 |`3:35-3:45pm`      |   Carl Hildebrandt: Feasible and Stressful Trajectory Generation for Mobile Robots|
 |`15 Minute Break`|
 |`4:00-4:10pm`      |   Trey Woodlief: Automatic Test Selection for Full Stack Autonomous Navigation Systems|
 |`4:15-4:25pm`      |   Minbiao Han: A Theory of Learning from Strategically Revealed Preferences|
-|`4:30-5:00pm`      |   🔥 Faculty Presentation: Haifeng Xu🔥|
+|`4:30-5:00pm`      |   🔥 Faculty Presentation: Haifeng Xu - Game-Theoretic Thinking in Research, and in Life|
 ***
 15 Minute Break
 ***
