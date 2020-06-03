@@ -48,14 +48,13 @@ Student talks are 5 minutes with 5 minutes for questions, submitting speaker rev
 |`9:05am`          |   Session Start |
 |`9:10-9:40am`     |    🔥Faculty Presentation: Seongkook Heo🔥 |
 |`9:45-9:55am`    |    Wen Ying: Evaluation of Touch Gesture Performance on Surfaces in VR |
-|`10:00-10:10am`      | Jack Lanchantin: Graph Convolutional Networks for Epigenetic State Prediction Using Both Sequence and 3D Genome Data|
+| `10:00-10:10am`   |  Josie Lamp: Association of Hemodynamic Trajectories and Outcomes in Advanced Heart Failure-Phenotyping Patients Using Signal Temporal Logic |
 |   `15 Minute Break`  |
-| `10:30-10:40am`   |  Josie Lamp: Association of Hemodynamic Trajectories and Outcomes in Advanced Heart Failure-Phenotyping Patients Using Signal Temporal Logic |
-| `10:45-10:55am`   |  Jing Ma: Deconfounding with Networked Observational Data in a Dynamic Environment |
-| `11:00-11:30am`  |  🔥Faculty Presentation: Yangfeng Ji🔥|
+| `10:25-10:35am`   |  Jing Ma: Deconfounding with Networked Observational Data in a Dynamic Environment |
+| `10:45-11:15am`  |  🔥Faculty Presentation: Yangfeng Ji🔥|
 
 ***
-25 Minute Session Break
+40 Minute Session Break
 ***
 
 **Session 2: Networks and Security**  
