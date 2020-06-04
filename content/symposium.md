@@ -1,5 +1,5 @@
 ---
-title: "Summer Virtual Symposium 2020"
+title: "Summer Virtual Research Symposium 2020"
 date: 2018-01-23T12:36:21-05:00
 draft: false
 layout: "nodate"
@@ -86,7 +86,7 @@ Session 3 Review Form: https://forms.gle/bhqhrjiZBn1C3yVb7
 |             |             |
 | :---        |     :----   |
 |`2:40pm`       | Session Start|
-|`3:05-3:15pm`     |    🔥Faculty Presentation: Felix Xiaozhu Lin - OS frontiers in the AI era|
+|`2:45-3:15pm`     |    🔥Faculty Presentation: Felix Xiaozhu Lin - OS frontiers in the AI era|
 |`3:20-3:30pm`     |    Meriel Stein: Fault Isolation for Autonomous Cyberphysical Systems|
 |`3:35-3:45pm`      |   Carl Hildebrandt: Feasible and Stressful Trajectory Generation for Mobile Robots|
 |`15 Minute Break`|
