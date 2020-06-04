@@ -42,6 +42,7 @@ Student talks are 5 minutes with 5 minutes for questions, submitting speaker rev
 
 **Session 1: Human-Computer Interaction, Artificial Intelligence and Cyber-Physical Systems**
 *Session Chair: Ingy Elsayed-Aly*  
+Session 1 Review Form: https://forms.gle/Vyj6PThxojesboCNA
 
 |             |             |
 | :---        |     :----   |
@@ -53,12 +54,14 @@ Student talks are 5 minutes with 5 minutes for questions, submitting speaker rev
 | `10:25-10:35am`   |  Jing Ma: Deconfounding with Networked Observational Data in a Dynamic Environment |
 | `10:45-11:15am`  |  🔥Faculty Presentation: Yangfeng Ji - Exploring the Potential of Language Technology for Human-AI Collaboration|
 
+
 ***
 40 Minute Session Break
 ***
 
 **Session 2: Networks and Security**  
-*Session Chair: Ruchir Shah*
+*Session Chair: Ruchir Shah*  
+Session 2 Review Form: https://forms.gle/GjoXsdLuRGA5AbGWA
 
 |             |             |
 | :---        |     :----   |
@@ -77,7 +80,8 @@ Student talks are 5 minutes with 5 minutes for questions, submitting speaker rev
 ***
 
 **Session 3: Software Engineering and Theory**  
-*Session Char: Soneya Binta Hossain*
+*Session Char: Soneya Binta Hossain*  
+Session 3 Review Form: https://forms.gle/bhqhrjiZBn1C3yVb7
 
 |             |             |
 | :---        |     :----   |
@@ -90,7 +94,7 @@ Student talks are 5 minutes with 5 minutes for questions, submitting speaker rev
 |`4:15-4:25pm`      |   Minbiao Han: A Theory of Learning from Strategically Revealed Preferences|
 |`4:30-5:00pm`      |   🔥 Faculty Presentation: Haifeng Xu - Game-Theoretic Thinking in Research, and in Life|
 ***
-15 Minute Break
+15 Minute Session Break
 ***
 
 **Awards & Closing**  
