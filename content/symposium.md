@@ -4,7 +4,7 @@ date: 2018-01-23T12:36:21-05:00
 draft: false
 layout: "nodate"
 ---
-**Date:** Friday, June 5th 2020, 9:00am - 5:30pm
+**Date:** Friday, June 5th 2020, 8:45am - 5:30pm
 
 **Zoom Link:** https://virginia.zoom.us/j/92206525927  
 Meeting ID: 922 0652 5927
