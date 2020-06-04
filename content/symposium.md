@@ -73,7 +73,7 @@ Session 2 Review Form: https://forms.gle/GjoXsdLuRGA5AbGWA
 |`1:00-1:30pm`     |    🔥Faculty Presentation: Yixin Sun|
 | `15 Minute Break` |
 |`1:45-1:55pm`      |   Wenqiang Chen: Vibration Intelligence in Cyber-Physical systems|
-|`2:00-2:30pm`      |   🔥Faculty Presentation: Yuan Tian|
+|`2:00-2:30pm`      |   🔥Faculty Presentation: Yuan Tian - Security and Privacy Challenges for Emerging Platforms|
 
 ***
 10 Minute Session Break
