@@ -49,7 +49,7 @@ Session 1 Review Form: https://forms.gle/Vyj6PThxojesboCNA
 |`9:05am`          |   Session Start |
 |`9:10-9:40am`     |    🔥Faculty Presentation: Seongkook Heo - User Interface for Future Computers |
 |`9:45-9:55am`    |    Wen Ying: Evaluation of Touch Gesture Performance on Surfaces in VR |
-| `10:00-10:10am`   |  Josie Lamp: Association of Hemodynamic Trajectories and Outcomes in Advanced Heart Failure-Phenotyping Patients Using Signal Temporal Logic |
+| `10:00-10:10am`   |  Josie Lamp: Using our Spidey-Senses to Detect and Defeat Evil. AKA: Associating Hemodynamic Trajectories with Outcomes in Advanced Heart Failure |
 |   `15 Minute Break`  |
 | `10:25-10:35am`   |  Jing Ma: Deconfounding with Networked Observational Data in a Dynamic Environment |
 | `10:45-11:15am`  |  🔥Faculty Presentation: Yangfeng Ji - Exploring the Potential of Language Technology for Human-AI Collaboration|
