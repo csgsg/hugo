@@ -10,7 +10,7 @@ publishDir = "public"
     description = "Computer Science Department Graduate Student Group"
     description2 = "at the University of Virginia"
     address = "85 Engineer's Way, Charlottesville, VA 22904"
-    year = 2018
+    year = 2020
     background = ""
     favicon = "images/favicon.ico"
     DateForm = "January 2, 2006"
@@ -42,6 +42,10 @@ publishDir = "public"
     url = "/about"
     weight = 6
 [[menu.main]]
-    name = "Symposium"
-    url = "/symposium"
+    name = "Helpful Information"
+    url = "/information"
     weight = 7
+[[menu.main]]
+    name = "Resources"
+    url = "/resources"
+    weight = 8
