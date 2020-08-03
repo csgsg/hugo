@@ -13,6 +13,8 @@ layout: "nodate"
 
 - Additional Resources for Graduate Students [Link](https://engineering.virginia.edu/departments/computer-science/cs-graduate-program#accordion475663)  
 
+- Diversity Scholarship Form [Link](https://docs.google.com/forms/d/e/1FAIpQLScxg6fr85JNot1ycijds19cM-258VRNPFXhgYx30Lzl94vlGg/viewform)
+
 - Associations and Groups [Link](https://engineering.virginia.edu/departments/computer-science/about-computer-science/clubs-and-groups)  
 
 - Clubs & Groups [Link](https://engineering.virginia.edu/departments/computer-science/about-computer-science/about-us#accordion103062)  
