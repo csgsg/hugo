@@ -5,18 +5,19 @@ draft: false
 layout: "nodate"
 ---
 
+## CS Student Opportunities and Resources 
 
-## Computer Science Graduate Student Handbook for MS and phd students [Link](https://engineering.virginia.edu/sites/default/files/common/departments/computer-science/files/GradStudentHANDBOOKfinal5-11-20.pdf)  
+- Computer Science Graduate Student Handbook for MS and phd students [Link](https://engineering.virginia.edu/sites/default/files/common/departments/computer-science/files/GradStudentHANDBOOKfinal5-11-20.pdf)  
 
-## CS Student Opportunities [Link](https://engineering.virginia.edu/departments/computer-science/current-cs-students/cs-student-opportunities)  
+- CS Student Opportunities [Link](https://engineering.virginia.edu/departments/computer-science/current-cs-students/cs-student-opportunities)  
 
-## Additional Resources for Graduate Students [Link](https://engineering.virginia.edu/departments/computer-science/cs-graduate-program#accordion475663)  
+- Additional Resources for Graduate Students [Link](https://engineering.virginia.edu/departments/computer-science/cs-graduate-program#accordion475663)  
 
-## Associations and Groups [Link](https://engineering.virginia.edu/departments/computer-science/about-computer-science/clubs-and-groups)  
+- Associations and Groups [Link](https://engineering.virginia.edu/departments/computer-science/about-computer-science/clubs-and-groups)  
 
-## Clubs & Groups [Link](https://engineering.virginia.edu/departments/computer-science/about-computer-science/about-us#accordion103062)  
+- Clubs & Groups [Link](https://engineering.virginia.edu/departments/computer-science/about-computer-science/about-us#accordion103062)  
 
-## CS Calendar of Events [Link](https://engineering.virginia.edu/departments/computer-science/about-computer-science/about-us#accordion103065)  
+- CS Calendar of Events [Link](https://engineering.virginia.edu/departments/computer-science/about-computer-science/about-us#accordion103065)  
 
 
 
