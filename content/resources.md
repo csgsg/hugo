@@ -21,9 +21,9 @@ layout: "nodate"
 
 - CS Calendar of Events [Link](https://engineering.virginia.edu/departments/computer-science/about-computer-science/about-us#accordion103065)  
 
-- UVA CS IT wiki[Link](https://www.cs.virginia.edu/wiki/doku.php)  
+- UVA CS IT wiki [Link](https://www.cs.virginia.edu/wiki/doku.php)  
 
-- Lou’s List CS[Link]( https://louslist.org/page.php?Semester=1208&Type=Group&Group=CompSci)  
+- Lou’s List CS [Link]( https://louslist.org/page.php?Semester=1208&Type=Group&Group=CompSci)  
 
 - UVA has free access to most big literature/publication venues (ACM, IEEE etc.) when you are on their wifi. You can still get access by installing and using the UVA VPN [here](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=f24e5cdfdb3acb804f32fb671d9619d0)
 
