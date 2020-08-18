@@ -12,7 +12,7 @@
     name = 'Ingy Elsayed-Aly'
     title = 'Social Chair'
     photo_url = "images/committee/ingy.jpeg"
-    website = ""
+    website = 'https://github.com/IngyN'
 [[card]]
     name = 'Aidan San'
     title = 'Space Chair'
@@ -22,12 +22,12 @@
     name = 'Yasas Senevirathne'
     title = 'Diversity Rep'
     photo_url = "images/committee/yasas.png"
-    website = ''
+    website = 'https://github.com/YasasSeneviratne'
 [[card]]
     name = 'Lingxi Wu'
     title = 'Grad Program Rep'
     photo_url = "images/blank.png"
-    website = ''
+    website = 'https://github.com/LingxiWu'
 [[card]]
     name = 'Robbie Hott'
     title = 'Faculty Advisor'
