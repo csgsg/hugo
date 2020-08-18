@@ -6,19 +6,26 @@ cd public
 git checkout master
 cd ..
 ```
-### To make/push changes
-Update some files outside of the public folder
+### Making Changes
+Update some files outside of the public folder (***WARNING: Please do not edit the files in the public folder directly. running "hugo" will handle this***)
+Test changes by running:
 ```
-hugo
+hugo server
+```
+
+### Pushing changes
+Run these commands from the root directory of the repository
+```
+hugo # builds the website
 cd public
 git add -A
 git commit -m "<Some commit message for the github.io repo>"
-git push
+git push # pushes changes to csgsg.github.io repository (this will also deploy changes to the live website)
 
 cd ..
 git add -A
 git commit -m "<Some commit message for the hugo repo>"
-git push
+git push # this will push the changes to the hugo repository
 ```  
 <br /> 
 <br /> 
