@@ -6,7 +6,7 @@ cd public
 git checkout master
 cd ..
 ```
-### To make changes
+### To make/push changes
 Update some files outside of the public folder
 ```
 hugo
