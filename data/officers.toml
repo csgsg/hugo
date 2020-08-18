@@ -7,7 +7,7 @@
     name = 'Soneya Binta Hossain'
     title = 'Leadership Chair'
     photo_url = "images/committee/soneya.png"
-    website = ''
+    website = 'https://soneyahossain.github.io'
 [[card]]
     name = 'Ingy Elsayed-Aly'
     title = 'Social Chair'
