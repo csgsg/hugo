@@ -12,6 +12,7 @@ Test changes by running:
 ```
 hugo server
 ```
+***See [this doc](https://docs.google.com/document/d/1FU1p0HqwDJvirm4jilWJL24s1cLsJ0noI17jSqsU8NE/edit?usp=sharing) for specific examples.***
 
 ### Pushing changes
 Run these commands from the root directory of the repository
