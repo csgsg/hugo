@@ -50,6 +50,10 @@ publishDir = "public"
     url = "/resources"
     weight = 8
 [[menu.main]]
+    name = "Fellowships"
+    url = "/fellowships"
+    weight = 9
+[[menu.main]]
     name = "Bios"
     url = "/bios"
-    weight = 9
+    weight = 10
