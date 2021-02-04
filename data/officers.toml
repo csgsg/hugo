@@ -1,33 +1,41 @@
 [[card]]
-    name = 'Josie Lamp'
+    name = 'Xida Ren'
     title = 'Chair'
+    photo_url = "images/blank.png"
+[[card]]
+    name = 'Yasunari Kato'
+    title = 'Diversity Rep'
+    photo_url = "images/blank.png"
+    website = ''
+[[card]]
+    name = 'Josie Lamp'
+    title = 'Grad Program Rep'
     photo_url = "images/committee/josie.jpg"
     website = 'https://www.josephinelamp.com/'
 [[card]]
-    name = 'Soneya Binta Hossain'
-    title = 'Leadership Chair'
-    photo_url = "images/committee/soneya.png"
-    website = 'https://soneyahossain.github.io'
-[[card]]
-    name = 'Ingy Elsayed-Aly'
-    title = 'Social Chair'
-    photo_url = "images/committee/ingy.jpeg"
-    website = 'https://github.com/IngyN'
-[[card]]
     name = 'Aidan San'
-    title = 'Space Chair'
+    title = 'Space Rep'
     photo_url = "images/committee/aidan.jpg"
     website = 'https://aidansan.github.io/'
 [[card]]
-    name = 'Yasas Senevirathne'
-    title = 'Diversity Rep'
-    photo_url = "images/committee/yasas.png"
-    website = 'https://github.com/YasasSeneviratne'
+    name = 'Rory McDaniel'
+    title = 'Systems Rep'
+    photo_url = "images/committee/rory.jpg"
+    website = ''
 [[card]]
-    name = 'Lingxi Wu'
-    title = 'Grad Program Rep'
+    name = 'Ingy Elsayed-Aly'
+    title = 'Social Rep'
+    photo_url = "images/committee/ingy.jpeg"
+    website = 'https://github.com/IngyN'
+[[card]]
+    name = 'Soneya Binta Hossain'
+    title = 'Leadership Rep'
+    photo_url = "images/committee/soneya.png"
+    website = 'https://soneyahossain.github.io'
+[[card]]
+    name = 'Nusrat Jahan Mozumder'
+    title = 'Mentoring Rep'
     photo_url = "images/blank.png"
-    website = 'https://github.com/LingxiWu'
 [[card]]
     name = 'Robbie Hott'
     title = 'Faculty Advisor'
