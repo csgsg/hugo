@@ -1,4 +1,4 @@
 [submodule "public"]
 	path = public
-	url = https://github.com/csgsg/csgsg.github.io
+	url = https://github.com/csgsg/csgsg.github.io.git
 	branch = master
