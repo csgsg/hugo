@@ -1,13 +1,13 @@
 ---
 title: "Resources & Web Links"
-date: 2018-01-23T12:36:21-05:00
+date: 2020-02-18T12:36:21-05:00
 draft: false
 layout: "nodate"
 ---
 
 ## CS Student Opportunities and Resources 
 
-- Computer Science Graduate Student Handbook for MS and phd students [Link](https://engineering.virginia.edu/sites/default/files/common/departments/computer-science/files/GradStudentHANDBOOKfinal5-11-20.pdf)  
+- Computer Science Graduate Student Handbook for MS and phd students (via engineering site) [Link](https://engineering.virginia.edu/departments/computer-science/cs-grad-students)  
 
 - CS Student Opportunities [Link](https://engineering.virginia.edu/departments/computer-science/current-cs-students/cs-student-opportunities)  
 
@@ -25,7 +25,8 @@ layout: "nodate"
 
 - Lou’s List CS [Link]( https://louslist.org/page.php?Semester=1208&Type=Group&Group=CompSci)  
 
-- UVA has free access to most big literature/publication venues (ACM, IEEE etc.) when you are on their wifi. You can still get access by installing and using the UVA VPN [here](https://virginia.service-now.com/its?id=itsweb_kb_article&sys_id=f24e5cdfdb3acb804f32fb671d9619d0)
+- UVA has free access to most big literature/publication venues (ACM, IEEE etc.) when you are on their wifi. You can still get access by installing and using the UVA VPN or proxy. Both available [here](https://www.library.virginia.edu/services/off-grounds-access/) 
+
 
 
 
