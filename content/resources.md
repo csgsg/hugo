@@ -19,7 +19,9 @@ layout: "nodate"
 
 - Clubs & Groups [Link](https://engineering.virginia.edu/departments/computer-science/about-computer-science/about-us#accordion103062)  
 
-- CS Calendar of Events [Link](https://engineering.virginia.edu/departments/computer-science/about-computer-science/about-us#accordion103065)  
+- CS Department Calendar of Events [Link](https://engineering.virginia.edu/departments/computer-science/about-computer-science/about-us#accordion103065)
+
+- CSGSG Calendar of Events [Link](https://calendar.google.com/calendar/b/1?cid=dmlyZ2luaWEuZWR1XzRvcW1uOXFkMjhxazJiZXNsazF1OWpyb3M0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 
 - UVA CS IT wiki [Link](https://www.cs.virginia.edu/wiki/doku.php)  
 
