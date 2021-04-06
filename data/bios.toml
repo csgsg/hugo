@@ -1,320 +1,300 @@
 [[card]]
-    name = 'Wenqiang Chen'
-    degree = 'PhD'
-    year = '1st'
-    advisor = 'John Stankovic'
-    bio = 'Wenqiang Chen is a first year CS PhD student at the University of Virginia, under supervised by John Stankovic . He previously received his B.S. and M.S. in Computer Science from Shenzhen University. He is interested in vibration intelligence, cyber physical system. In his free time,  he enjoys watching science fictions.'
-    photo_url = "/images/bios/wenqiang.jpg"
-    category = 'Cyber-Physical Systems'
-    keywords = 'vibration intelligence'
-
-
-[[card]]
-    name = 'Hanjie Chen'
-    degree = 'PhD'
-    year = '2nd'
-    advisor = 'Yangfeng Ji'
-    bio = 'Hanjie Chen is a second year CS PhD student at the University of Virginia. She previously received her B.E. from Nanjing University of Aeronautics and Astronautics, and M.E. from University of Science and Technology of China. Her research interests lie in Natural Language Processing, Deep Learning, and Interpretable Machine Learning. She mainly focuses on building interpretable neural networks for natural language understanding and improving the interpretability and robustness of neural network models.'
-    photo_url = "/images/blank.png"
-    category = 'Artificial Intelligence'
-    keywords = 'Natural Language Processing, Deep Learning, Interpretable Machine Learning'
+name = "Kayla Boggess"
+degree = "PhD"
+year = "1st"
+advisor = "Lu Feng"
+bio = "Kayla Boggess is a first year CS PhD student at the University of Virginia. She previously received her B.A in Computer Science and B.A in English from Denison University. She is currently doing work to produce new types of explanations for XAI systems using formal methods. She enjoys sewing in her free time."
+photo_url = "/images/bios/kayla.jpg"
+category = "Cyber-Physical Systems"
+keywords = "XAI, Robotics, Contrastive Explanation"
 
 [[card]]
-    name = 'Ingy ElSayed-Aly'
-    degree = 'PhD'
-    year = '2nd'
-    advisor = 'Lu Feng'
-    bio = 'Ingy ElSayed-Aly is a second year CS PhD student at the University of Virginia. She previously received her B.S. in Computer Science from the American University in Cairo. She is interested in Machine Learning, Computer Security and Robotics. Her current research involves applying Formal Methods techniques to provide safety in Reinforcement Learning for Multi-Agent Systems. Outside of the lab, she enjoys all kinds of outdoor activities including horse riding and hiking but she also enjoys reading and playing board games.'
-    photo_url = "/images/bios/ingy.jpeg"
-    category = 'Cyber-Physical Systems, Artificial Intelligence'
-    keywords = 'Machine Learning, Formal Methods'
+name = "Paola Cascante-Bonilla"
+degree = "PhD"
+year = "3rd"
+advisor = "Vicente Ordóñez Román"
+bio = "Personal website: https://paolacascante.com/"
+photo_url = "/images/bios/paola.jpg"
+category = "Artificial Intelligence"
+keywords = "Computer Vision, Natural Language Processing, Machine Learning, Optimization, Semi-supervised Learning, Few-shot Learning, Meta Learning."
 
 [[card]]
-    name = 'Bargav Jayaraman'
-    degree = 'PhD'
-    year = '4th'
-    advisor = 'David Evans'
-    bio = 'Bargav is a fourth year CS PhD student at the University of Virginia. He received his masters degree in CS from International Institute of Information Technology Hyderabad, India and worked for 1.5 years as a researcher at Accenture Technology Labs, India prior to joining the PhD program. His research interests are broadly in the areas of Privacy, Security and Machine Learning. His pass time hobbies are gaming, cooking, sketching and hiking.'
-    photo_url = "/images/blank.png"
-    category = 'Artificial Intelligence, Security'
-    keywords = 'Privacy Preserving Machine Learning'
+name = "Hanjie Chen"
+degree = "PhD"
+year = "2nd"
+advisor = "Yangfeng Ji"
+bio = "Hanjie Chen is a second year CS PhD student at the University of Virginia. She previously received her B.E. from Nanjing University of Aeronautics and Astronautics, and M.E. from University of Science and Technology of China. Her research interests lie in Natural Language Processing, Deep Learning, and Interpretable Machine Learning. She mainly focuses on building interpretable neural networks for natural language understanding and improving the interpretability and robustness of neural network models."
+photo_url = "/images/blank.png"
+category = "Artificial Intelligence"
+keywords = "Natural Language Processing, Deep Learning, Interpretable Machine Learning"
 
 [[card]]
-    name = 'Kayla Boggess'
-    degree = 'PhD'
-    year = '1st'
-    advisor = 'Lu Feng'
-    bio = 'Kayla Boggess is a first year CS PhD student at the University of Virginia. She previously received her B.A in Computer Science and B.A in English from Denison University. She is currently doing work to produce new types of explanations for XAI systems using formal methods. She enjoys sewing in her free time.'
-    photo_url = "/images/bios/kayla.jpg"
-    category = 'Cyber-Physical Systems'
-    keywords = 'XAI, Robotics, Contrastive Explanation'
+name = "Wenqiang Chen"
+degree = "PhD"
+year = "1st"
+advisor = "John Stankovic"
+bio = "Wenqiang Chen is a first year CS PhD student at the University of Virginia, under supervised by John Stankovic . He previously received his B.S. and M.S. in Computer Science from Shenzhen University. He is interested in vibration intelligence, cyber physical system. In his free time,  he enjoys watching science fictions."
+photo_url = "/images/bios/wenqiang.jpg"
+category = "Cyber-Physical Systems"
+keywords = "vibration intelligence"
 
 [[card]]
-    name = 'Trey Woodlief'
-    degree = 'PhD'
-    year = '2nd'
-    advisor = 'Sebastian Elbaum'
-    bio = 'Trey Woodlief is a second year PhD student in Computer Science at the University of Virginia. He previously received his B.S. in Computer Science and Electrical and Computer Engineering from North Carolina State University. Trey is interested in robotics, especially system testing and verification. In his free time, Trey volunteers for FIRST robotics, enjoys cheering on the Nats and Canes, and exploring Charlottesville with his wife, Jordan.'
-    photo_url = "/images/bios/trey.jpg"
-    category = 'Cyber-Physical Systems, Software Engineering'
-    keywords = 'Robotics, Testing, Autonomous Systems'
+name = "Shuyang Dong"
+degree = "PhD"
+year = "1st"
+advisor = "Lu Feng"
+bio = "Shuyang Dong is a newly accepted CE PhD student at the University of Virginia. She previously received her B.S. in Traffic Engineering from Southeast University and will receive her M.S. in Transportation Engineering from Southeast University in June 2020. She is interested in machine learning and artificial intelligence for developing autonomous driving. She enjoys those interesting dreams she has after watching suspense movies at night and always records some fragments."
+photo_url = "/images/bios/shuyan.png"
+category = "Cyber-Physical Systems, Artificial Intelligence"
+keywords = "Artificial Intelligence, Machine Learning, Autonomous Driving, Cyber-Physical Systems"
 
 [[card]]
-    name = 'Carl Hildebrandt'
-    degree = 'PhD'
-    year = '2nd'
-    advisor = 'Sebastian Elbaum'
-    bio = 'Carl is a Ph.D. student attending the University of Virginia, USA. He is advised by Dr. Sebastian Elbaum. He holds a B.Eng. in Computer Engineering from the University of Pretoria in South Africa. His research interests lie in the intersection between robotics and software testing and verification. Currently, he is looking at combining the kinematic and dynamic models of autonomous systems into testing procedures to verify the autonomous system is behaving as designed. Currently, he is focused on mobile ground robots and autonomous quadrotors. Outside of the lab, he is an active member of the University of Virginia’s club field hockey and triathlon team. He has summited Kilimanjaro, completed Comrades the world’s oldest and largest ultramarathon, and was part of the U18B South Africa National Hockey Team.'
-    photo_url = "/images/bios/carl.jpg"
-    category = 'Cyber-Physical Systems, Software Engineering'
-    keywords = 'Testing, Kinematic and Dynamic Models, Autonomous Mobile Robots'
+name = "Ingy ElSayed-Aly"
+degree = "PhD"
+year = "2nd"
+advisor = "Lu Feng"
+bio = "Ingy ElSayed-Aly is a second year CS PhD student at the University of Virginia. She previously received her B.S. in Computer Science from the American University in Cairo. She is interested in Machine Learning, Computer Security and Robotics. Her current research involves applying Formal Methods techniques to provide safety in Reinforcement Learning for Multi-Agent Systems. Outside of the lab, she enjoys all kinds of outdoor activities including horse riding and hiking but she also enjoys reading and playing board games."
+photo_url = "/images/bios/ingy.jpeg"
+category = "Cyber-Physical Systems, Artificial Intelligence"
+keywords = "Machine Learning, Formal Methods"
 
 [[card]]
-    name = 'Shuyang Dong'
-    degree = 'PhD'
-    year = '1st'
-    advisor = 'Lu Feng'
-    bio = 'Shuyang Dong is a newly accepted CE PhD student at the University of Virginia. She previously received her B.S. in Traffic Engineering from Southeast University and will receive her M.S. in Transportation Engineering from Southeast University in June 2020. She is interested in machine learning and artificial intelligence for developing autonomous driving. She enjoys those interesting dreams she has after watching suspense movies at night and always records some fragments.'
-    photo_url = "/images/bios/shuyan.png"
-    category = 'Cyber-Physical Systems, Artificial Intelligence'
-    keywords = 'Artificial Intelligence, Machine Learning, Autonomous Driving, Cyber-Physical Systems'
+name = "Amel Fatima"
+degree = "PhD"
+year = "1st"
+advisor = "Samira Khan"
+bio = "I am Amel Fatima, a first year Ph.D. student at the University of Virginia. I previously received my Masters in Computer Science from University at Buffalo. My research focuses on addressing the overhead of address translation in PIM (Processing in memory) architecture and I am interested in designing an efficient address translation unit for the PIM (Processing in Memory) architecture. In my free time, I enjoy cooking and hiking."
+photo_url = "/images/bios/amel.png"
+category = "Computer Systems, Architecture and Networks"
+keywords = "Computer Architecture."
 
 [[card]]
-    name = 'Jack Lanchantin'
-    degree = 'PhD'
-    year = '6th'
-    advisor = 'Yanjun Qi'
-    bio = 'I am a 6th year PhD student, advised by Dr. Yanjun Qi. My research interests are in representation learning and interpretable models for sequence data, particularly genomic, protein, and natural language sequences.'
-    photo_url = "/images/bios/jack.jpg"
-    category = 'Artificial Intelligence'
-    keywords = 'Protein sequences, transfer learning'
- 
-[[card]]
-    name = 'David Shriver'
-    degree = 'PhD'
-    year = '3rd'
-    advisor = 'Sebastian Elbaum'
-    bio = 'David Shriver is a third year computer science PhD student at the University of Virginia, advised by Sebastian Elbaum. He received his BS in computer engineering and a Masters in computer science from the University of Nebraska-Lincoln. His research interests include analysis, verification, and validation of machine learning systems, particularly deep neural networks. In his free time, he enjoys swimming and hiking..'
-    photo_url = "/images/blank.png"
-    category = 'Artificial Intelligence, Software Engineering'
-    keywords = 'Software Engineering, Formal Methods, Machine Learning, Deep Neural Networks'
+name = "Minbiao Han"
+degree = "PhD"
+year = "3rd"
+advisor = "Haifeng Xu, Michael Albert"
+bio = "I am a third-year Ph.D. student in Computer Science at the University of Virginia. My research interests mainly focus on game theory and computational economics (aka. EconCS), including mechanism design, learning in economic environments, and optimization. Prior to UVA, I received my Bachelors degree in Software Engineering from Sun Yat-sen University, Guangzhou China."
+photo_url = "/images/bios/minbiao.JPG"
+category = "Artificial Intelligence, Theory"
+keywords = "Game Theory, Computational Economics"
 
 [[card]]
-    name = 'Jingyun Ning'
-    degree = 'PhD'
-    year = '2nd'
-    advisor = 'Madhur Behl'
-    bio = 'Jingyun Ning is currently in his second year of his PhD in Computer Engineering at the University of Virginia. He received his Master degree from the University of Virginia. His research interests center around the cyber physical system, focused on control and machine learning aspects. As a member of UVA dMIST group, his current research is on data-driven model predictive control on real-time stormwater management.'
-    photo_url = "/images/blank.png"
-    category = 'Cyber-Physical Systems'
-    keywords = 'Control, machine learning, deep learning'
+name = "Carl Hildebrandt"
+degree = "PhD"
+year = "2nd"
+advisor = "Sebastian Elbaum"
+bio = "Carl is a Ph.D. student attending the University of Virginia, USA. He is advised by Dr. Sebastian Elbaum. He holds a B.Eng. in Computer Engineering from the University of Pretoria in South Africa. His research interests lie in the intersection between robotics and software testing and verification. Currently, he is looking at combining the kinematic and dynamic models of autonomous systems into testing procedures to verify the autonomous system is behaving as designed. Currently, he is focused on mobile ground robots and autonomous quadrotors. Outside of the lab, he is an active member of the University of Virginia’s club field hockey and triathlon team. He has summited Kilimanjaro, completed Comrades the world’s oldest and largest ultramarathon, and was part of the U18B South Africa National Hockey Team."
+photo_url = "/images/bios/carl.jpg"
+category = "Cyber-Physical Systems, Software Engineering"
+keywords = "Testing, Kinematic and Dynamic Models, Autonomous Mobile Robots"
 
 [[card]]
-    name = 'Jing Ma'
-    degree = 'PhD'
-    year = '2nd'
-    advisor = 'Jundong Li, Aidong Zhang'
-    bio = 'Jing Ma is a second year CS PhD student at the University of Virginia. She previously received her B.Eng. and M.Eng. in Computer Science and Engineering from the Shanghai Jiaotong University. Her research interests include data mining, machine learning, causal inference, graph neural network, crowdsourcing.'
-    photo_url = "/images/blank.png"
-    category = 'Artificial Intelligence'
-    keywords = 'Data mining, machine learning, causal inference, graph neural network, crowdsourcing'
-
-
-[[card]]
-    name = 'Guangtao Zheng'
-    degree = 'PhD'
-    year = '1st'
-    advisor = 'Aidong Zhang'
-    bio = 'Guangtao Zheng is a first year CS PhD student at the University of Virginia. He received his M.Eng. in Electrical Engineering from the University of Science and Technology of China in 2018, and B.S. in Electrical Engineering from the Sun Yat-Sen University in 2015. He is interested in meta-learning, natural language processing, with the focus on generalization and interpretability.'
-    photo_url = "/images/blank.png"
-    category = 'Artificial Intelligence'
-    keywords = 'Meta-learning, few-shot classification'
+name = "Soneya Binta Hossain"
+degree = "PhD"
+year = "1st"
+advisor = "Matthew Dwyer"
+bio = "Soneya is a first year phd student in the CS department at UVa, she is interested in automated software verification, validation and analysis. She completed her bachelor’s in Computer Science and Engineering from Bangladesh University of Engineering and Technology ( BUET ). Before coming to grad school, she worked at REVE Systems as a software engineer in the research and development (R&D) team. Her webpage: https://soneyahossain.github.io."
+photo_url = "/images/committee/soneya.png"
+category = "Software Engineering"
+keywords = "Automated verification and validation of software."
 
 [[card]]
-    name = 'Peiyi Yang'
-    degree = 'MCS'
-    year = '1st'
-    advisor = 'Aidong Zhang'
-    bio = 'Peiyi Yang is a first year MCS student at UVA. She previously received her B.S. in Software Engineering from the Northeastern University. Her research interests include computer vision, distributed systems and cloud computing.'
-    photo_url = "/images/blank.png"
-    category = 'Computer Systems, Architecture and Networks, Artificial Intelligence'
-    keywords = 'Computer Vision, Distributed System, Cloud Computing'
+name = "Kazi Ashik Islam"
+degree = "PhD"
+year = "1st"
+advisor = "Madhav Marathe"
+bio = "Kazi Ashik Islam is a first-year CS Ph.D. student at the University of Virginia. He previously received his B.Sc. in Computer Science and Engineering from Bangladesh University of Engineering and Technology. Before coming to UVA, he worked as a Software Engineer for one and a half years. Ashik is interested in modeling the dynamics of interdependent and interacting systems such as transportation systems, communication systems, electrical grids, etc under different circumstances. In his free time, he likes to read sci-fi books and watch movies/shows of similar genres.."
+photo_url = "/images/bios/kazi.jpg"
+category = "Computer Systems, Architecture and Networks"
+keywords = "Simulation, Modeling, Interdependent, Interacting, Systems, Transportation, Communication, Evacuation."
 
 [[card]]
-    name = 'Minbiao Han'
-    degree = 'PhD'
-    year = '3rd'
-    advisor = 'Haifeng Xu, Michael Albert'
-    bio = 'I am a third-year Ph.D. student in Computer Science at the University of Virginia. My research interests mainly focus on game theory and computational economics (aka. EconCS), including mechanism design, learning in economic environments, and optimization. Prior to UVA, I received my Bachelors degree in Software Engineering from Sun Yat-sen University, Guangzhou China.'
-    photo_url = "/images/bios/minbiao.JPG"
-    category = 'Artificial Intelligence, Theory'
-    keywords = 'Game Theory, Computational Economics'
+name = "Bargav Jayaraman"
+degree = "PhD"
+year = "4th"
+advisor = "David Evans"
+bio = "Bargav is a fourth year CS PhD student at the University of Virginia. He received his masters degree in CS from International Institute of Information Technology Hyderabad, India and worked for 1.5 years as a researcher at Accenture Technology Labs, India prior to joining the PhD program. His research interests are broadly in the areas of Privacy, Security and Machine Learning. His pass time hobbies are gaming, cooking, sketching and hiking."
+photo_url = "/images/blank.png"
+category = "Artificial Intelligence, Security"
+keywords = "Privacy Preserving Machine Learning"
 
 [[card]]
-    name = 'Sihang Liu'
-    degree = 'PhD'
-    year = '4th'
-    advisor = 'Samira Khan'
-  bio = 'JSihang Liu is a 4th year Ph.D. student at the University of Virginia, advised by Professor Samira Khan. Before pursuing the doctoral degree, he has obtained Bachelor’s degrees from both the University of Michigan and Shanghai Jiaotong University. Sihang Liu’s primary research interest lies in the software and hardware co-design of persistent memory systems. On the hardware side, his research aims to optimize the performance and guarantee crash consistency for practical persistent memory systems that are integrated with both storage and memory support. On the software side, he works on testing the crash consistency guarantees of PM-based programs. His works have provided several open-source tools and detected real-world bugs in well known persistent memory software systems. He has published these works at top conferences in Computer Architecture, including ISCA, ASPLOS and HPCA. He has also served as reviewer for ToS and ASPLOS AE. '
-    photo_url = "/images/bios/sihang.jpg"
-    category = 'Computer Systems, Architecture and Networks'
-    keywords = 'Persistent Memory, Processing in Memory, Computer architecture and system'
+name = "Josephine Lamp"
+degree = "PhD"
+year = "3rd"
+advisor = "Lu Feng"
+bio = "Josephine Lamp is a third-year Computer Science PhD student, 2020 NSF Graduate Research Fellow and Olive B. and Franklin C. Mac Krell Jefferson Fellow in the Link Lab at the University of Virginia. She is advised by Dr. Lu Feng and Dr. Dave Evans. Her research is at the intersection of Healthcare, Computer Science and Cybersecurity; specifically, she is developing privacy-preserving machine learning and artificial intelligence (AI) techniques for clinical decision support systems. Her research is applied to improve outcomes for patients with Advanced Heart Failure and Type I Diabetes, among others. She received her B.S. in Biomedical Informatics (BMI) from Barrett, the Honors College at Arizona State University, where she graduated Summa Cum Laude, as a distinguished Outstanding Graduate and in the first graduating cohort of BMI undergraduates. Josephine is also involved in health-privacy policy efforts, Chair of the Computer Science Department Graduate Student Group (student council,) and Editor-in-Chief of the Jefferson Journal of Science and Culture, an interdisciplinary journal run by Jefferson Fellows."
+photo_url = "/images/bios/josephine.jpg"
+category = "Cyber-Physical Systems, Artificial Intelligence, Security"
+keywords = "Differential Privacy, Clinical Decision Support Systems, Signal Temporal Logic, Medical-Cyber Physical Systems, STL Learning"
 
 [[card]]
-    name = 'Josephine Lamp'
-    degree = 'PhD'
-    year = '3rd'
-    advisor = 'Lu Feng'
-    bio = 'Josephine Lamp is a third-year Computer Science PhD student, 2020 NSF Graduate Research Fellow and Olive B. and Franklin C. Mac Krell Jefferson Fellow in the Link Lab at the University of Virginia. She is advised by Dr. Lu Feng and Dr. Dave Evans. Her research is at the intersection of Healthcare, Computer Science and Cybersecurity; specifically, she is developing privacy-preserving machine learning and artificial intelligence (AI) techniques for clinical decision support systems. Her research is applied to improve outcomes for patients with Advanced Heart Failure and Type I Diabetes, among others. She received her B.S. in Biomedical Informatics (BMI) from Barrett, the Honors College at Arizona State University, where she graduated Summa Cum Laude, as a distinguished Outstanding Graduate and in the first graduating cohort of BMI undergraduates. Josephine is also involved in health-privacy policy efforts, Chair of the Computer Science Department Graduate Student Group (student council,) and Editor-in-Chief of the Jefferson Journal of Science and Culture, an interdisciplinary journal run by Jefferson Fellows.'
-    photo_url = "/images/bios/josephine.jpg"
-    category = 'Cyber-Physical Systems, Artificial Intelligence, Security'
-    keywords = 'Differential Privacy, Clinical Decision Support Systems, Signal Temporal Logic, Medical-Cyber Physical Systems, STL Learning'
-
-
-[[card]]
-    name = 'Paola Cascante-Bonilla'
-    degree = 'PhD'
-    year = '2nd'
-    advisor = 'Vicente Ordóñez Román'
-    bio = 'I am a second-year Ph.D. student in Computer Science at the University of Virginia. I received my B.S. in Engineering at the Tecnológico de Costa Rica. My research lies in the intersection between Computer Vision, Machine Learning, and Natural Language Processing. I am particularly interested in analyzing and applying algorithms to understand how images and text can model complex patterns related to human interactions and their potential effects on everyday life. More recently, I’ve been working on semi-supervised learning and self-supervised learning. Previously I spent 10 years working as a Software Engineer at different Tech Companies, and about 14 years teaching and performing as a drummer. In my free time, I enjoy playing music and trying to find new ways to make art using statistical learning methods. Webpage: https://paolacascante.com/.'
-    photo_url = "/images/bios/paola.jpg"
-    category = 'Artificial Intelligence'
-    keywords = 'Computer Vision, Machine Learning, Optimization, Semi-supervised Learning, Self-supervised Learning, Meta Learning.'
+name = "Jack Lanchantin"
+degree = "PhD"
+year = "6th"
+advisor = "Yanjun Qi"
+bio = "I am a 6th year PhD student, advised by Dr. Yanjun Qi. My research interests are in representation learning and interpretable models for sequence data, particularly genomic, protein, and natural language sequences."
+photo_url = "/images/bios/jack.jpg"
+category = "Artificial Intelligence"
+keywords = "Protein sequences, transfer learning"
 
 [[card]]
-    name = 'Korakit Seemakhupt'
-    degree = 'PhD'
-    year = '2nd'
-    advisor = 'Samira Khan'
-    bio = 'Korakit Seemakhupt is a second year CS Ph.D. student at the University of Virginia. He received his B.Eng. and M.Eng. in Computer Engineering from Chulalongkorn University, Bangkok, Thailand. His research interests includes distributed Non-Volatile Memory system.'
-    photo_url = "/images/bios/korakit.JPG"
-    category = 'Computer Systems, Architecture and Networks'
-    keywords = 'Persistent Memory, Programmable Network devices.'
+name = "Tu Le"
+degree = "PhD"
+year = "3rd"
+advisor = "Yuan Tian"
+bio = "Personal website: https://lenhattu.com"
+photo_url = "/images/bios/Tu-le.png"
+category = "Security"
+keywords = "Security, Privacy, Internet of Things, Human-Computer Interaction."
 
 [[card]]
-    name = 'Yasas Seneviratne'
-    degree = 'PhD'
-    year = '1st'
-    advisor = 'Samira Khan'
-    bio = 'Yasas Seneviratne is a first-year CPE Ph.D. student at the University of Virginia advised by Prf. Samira Khan. He previously received his B.S. in Electronics and Telecommunication Engineering from the University of Moratuwa, Sri Lanka. His research interest is in computer architecture, specifically in memory systems and processing in memory.'
-    photo_url = "/images/bios/yasas.png"
-    category = 'Computer Systems, Architecture and Networks'
-    keywords = 'Computer Architecture, Memory Systems, Processing in Memory, Persistent Memory.'
+name = "Peter Le"
+degree = "MS"
+year = "1st"
+advisor = "Benton Calhoun"
+bio = "Personal website: http://iamgroot42.github.io/"
+photo_url = "/images/bios/PeterLeUVAPhotoColor - Peter Le.png"
+category = "Computer Systems, Architecture and Networks"
+keywords = "Transceiver Localization/FPGA Design"
 
 [[card]]
-    name = 'Kazi Ashik Islam'
-    degree = 'PhD'
-    year = '1st'
-    advisor = 'Madhav Marathe'
-    bio = 'Kazi Ashik Islam is a first-year CS Ph.D. student at the University of Virginia. He previously received his B.Sc. in Computer Science and Engineering from Bangladesh University of Engineering and Technology. Before coming to UVA, he worked as a Software Engineer for one and a half years. Ashik is interested in modeling the dynamics of interdependent and interacting systems such as transportation systems, communication systems, electrical grids, etc under different circumstances. In his free time, he likes to read sci-fi books and watch movies/shows of similar genres..'
-    photo_url = "/images/bios/kazi.jpg"
-    category = 'Computer Systems, Architecture and Networks'
-    keywords = 'Simulation, Modeling, Interdependent, Interacting, Systems, Transportation, Communication, Evacuation.'
+name = "Marzieh Lenjani"
+degree = "PhD"
+year = "4th"
+advisor = "Kevin Skadron"
+bio = "Marzieh is a PhD candidate in the Computer Science Department at the University of Virginia, advised by Professor Kevin Skadron. Her research explores accelerator design for machine learning applications, mapping and optimization of modern applications on emerging processors and accerators, processing in memory (PIM), GPGPU, parallelism and optimization, MPSoC and NoC, and heuristic optimization. Marzieh enjoys swimming, hiking, and cooking Persian foods."
+photo_url = "/images/bios/marzieh.jpg"
+category = "Computer Systems, Architecture and Networks"
+keywords = "accelerator design, processing in memory (PIM), and GPGPU."
 
 [[card]]
-    name = ' Wen Ying'
-    degree = 'MS'
-    year = '2nd'
-    advisor = 'Seongkook Heo'
-    bio = 'Wen is a second-year CS MS student at the University of Virginia. She will continue her PhD program in Computer Science at Uva. She is interested in the haptic devices in human computer interaction. In her free time, she enjoys writing novels.'
-    photo_url = "/images/bios/wenying.jpeg"
-    category = 'Human-Computer Interaction'
-    keywords = 'Haptic devices.'
+name = "Sihang Liu"
+degree = "PhD"
+year = "4th"
+advisor = "Samira Khan"
+bio = "JSihang Liu is a 4th year Ph.D. student at the University of Virginia, advised by Professor Samira Khan. Before pursuing the doctoral degree, he has obtained Bachelor’s degrees from both the University of Michigan and Shanghai Jiaotong University. Sihang Liu’s primary research interest lies in the software and hardware co-design of persistent memory systems. On the hardware side, his research aims to optimize the performance and guarantee crash consistency for practical persistent memory systems that are integrated with both storage and memory support. On the software side, he works on testing the crash consistency guarantees of PM-based programs. His works have provided several open-source tools and detected real-world bugs in well known persistent memory software systems. He has published these works at top conferences in Computer Architecture, including ISCA, ASPLOS and HPCA. He has also served as reviewer for ToS and ASPLOS AE. "
+photo_url = "/images/bios/sihang.jpg"
+category = "Computer Systems, Architecture and Networks"
+keywords = "Persistent Memory, Processing in Memory, Computer architecture and system"
 
 [[card]]
-    name = 'Meriel Stein'
-    degree = 'PhD'
-    year = '2nd'
-    advisor = 'Sebastian Elbaum'
-    bio = 'Meriel is a second year PhD student at the University of Virginia. She previously received a B.A. in art history from Oberlin College. Her research focuses on dependable unmanned autonomous systems investigated through a software engineering lens.'
-    photo_url = "/images/blank.png"
-    category = 'Cyber-Physical Systems, Software Engineering'
-    keywords = 'Software testing, Fault isolation, Test generation and validation.'
+name = "Jing Ma"
+degree = "PhD"
+year = "2nd"
+advisor = "Jundong Li, Aidong Zhang"
+bio = "Jing Ma is a second year CS PhD student at the University of Virginia. She previously received her B.Eng. and M.Eng. in Computer Science and Engineering from the Shanghai Jiaotong University. Her research interests include data mining, machine learning, causal inference, graph neural network, crowdsourcing."
+photo_url = "/images/blank.png"
+category = "Artificial Intelligence"
+keywords = "Data mining, machine learning, causal inference, graph neural network, crowdsourcing"
 
 [[card]]
-    name = 'Marzieh Lenjani'
-    degree = 'PhD'
-    year = '4th'
-    advisor = 'Kevin Skadron'
-    bio = 'Marzieh is a PhD candidate in the Computer Science Department at the University of Virginia, advised by Professor Kevin Skadron. Her research explores accelerator design for machine learning applications, mapping and optimization of modern applications on emerging processors and accerators, processing in memory (PIM), GPGPU, parallelism and optimization, MPSoC and NoC, and heuristic optimization. Marzieh enjoys swimming, hiking, and cooking Persian foods.'
-    photo_url = "/images/bios/marzieh.jpg"
-    category = 'Computer Systems, Architecture and Networks'
-    keywords = 'accelerator design, processing in memory (PIM), and GPGPU.'
+name = "Jingyun Ning"
+degree = "PhD"
+year = "2nd"
+advisor = "Madhur Behl"
+bio = "Jingyun Ning is currently in his second year of his PhD in Computer Engineering at the University of Virginia. He received his Master degree from the University of Virginia. His research interests center around the cyber physical system, focused on control and machine learning aspects. As a member of UVA dMIST group, his current research is on data-driven model predictive control on real-time stormwater management."
+photo_url = "/images/blank.png"
+category = "Cyber-Physical Systems"
+keywords = "Control, machine learning, deep learning"
 
 [[card]]
-    name = 'Amel Fatima'
-    degree = 'PhD'
-    year = '1st'
-    advisor = 'Samira Khan'
-    bio = 'I am Amel Fatima, a first year Ph.D. student at the University of Virginia. I previously received my Masters in Computer Science from University at Buffalo. My research focuses on addressing the overhead of address translation in PIM (Processing in memory) architecture and I am interested in designing an efficient address translation unit for the PIM (Processing in Memory) architecture. In my free time, I enjoy cooking and hiking.'
-    photo_url = "/images/bios/amel.png"
-    category = 'Computer Systems, Architecture and Networks'
-    keywords = 'Computer Architecture.'
+name = "Korakit Seemakhupt"
+degree = "PhD"
+year = "2nd"
+advisor = "Samira Khan"
+bio = "Korakit Seemakhupt is a second year CS Ph.D. student at the University of Virginia. He received his B.Eng. and M.Eng. in Computer Engineering from Chulalongkorn University, Bangkok, Thailand. His research interests includes distributed Non-Volatile Memory system."
+photo_url = "/images/bios/korakit.JPG"
+category = "Computer Systems, Architecture and Networks"
+keywords = "Persistent Memory, Programmable Network devices."
 
 [[card]]
-    name = 'Soneya Binta Hossain'
-    degree = 'PhD'
-    year = '1st'
-    advisor = 'Matthew Dwyer'
-    bio = 'Soneya is a first year phd student in the CS department at UVa, she is interested in automated software verification, validation and analysis. She completed her bachelor’s in Computer Science and Engineering from Bangladesh University of Engineering and Technology ( BUET ). Before coming to grad school, she worked at REVE Systems as a software engineer in the research and development (R&D) team. Her webpage: https://soneyahossain.github.io.'
-    photo_url = "/images/committee/soneya.png"
-    category = 'Software Engineering'
-    keywords = 'Automated verification and validation of software.'
-
-### from form ###
-[[card]]
-    name = 'Tu Le'
-    degree = 'PhD'
-    year = '3rd'
-    advisor = 'Yuan Tian'
-    bio = 'Personal website: https://lenhattu.com'
-    photo_url = "/images/bios/Tu-le.png"
-    category = 'Security'
-    keywords = 'Security, Privacy, Internet of Things, Human-Computer Interaction.'
+name = "Yasas Seneviratne"
+degree = "PhD"
+year = "1st"
+advisor = "Samira Khan"
+bio = "Yasas Seneviratne is a first-year CPE Ph.D. student at the University of Virginia advised by Prf. Samira Khan. He previously received his B.S. in Electronics and Telecommunication Engineering from the University of Moratuwa, Sri Lanka. His research interest is in computer architecture, specifically in memory systems and processing in memory."
+photo_url = "/images/bios/yasas.png"
+category = "Computer Systems, Architecture and Networks"
+keywords = "Computer Architecture, Memory Systems, Processing in Memory, Persistent Memory."
 
 [[card]]
-    name = 'Ruchir Vasavkumar Shah'
-    degree = 'ME'
-    year = '2nd'
-    advisor = 'Seongkook Heo'
-    bio = 'Personal website: https://www.linkedin.com/in/shahruchirv/'
-    photo_url = "/images/bios/RVS - Ruchir Shah.jpg"
-    category = 'Human-Computer Interaction, Cyber-Physical Systems'
-    keywords = 'Haptic feedback, Environmental sensing, Wireless Sensor Networks, Internet of Things'
+name = "Ruchir Vasavkumar Shah"
+degree = "ME"
+year = "2nd"
+advisor = "Seongkook Heo"
+bio = "Personal website: https://www.linkedin.com/in/shahruchirv/"
+photo_url = "/images/bios/RVS - Ruchir Shah.jpg"
+category = "Human-Computer Interaction, Cyber-Physical Systems"
+keywords = "Haptic feedback, Environmental sensing, Wireless Sensor Networks, Internet of Things"
 
 [[card]]
-    name = 'Paola Cascante-Bonilla'
-    degree = 'PhD'
-    year = '3rd'
-    advisor = 'Vicente Ordóñez Román'
-    bio = 'Personal website: https://paolacascante.com/'
-    photo_url = "/images/bios/paola.jpg"
-    category = 'Artificial Intelligence'
-    keywords = 'Computer Vision, Natural Language Processing, Machine Learning, Optimization, Semi-supervised Learning, Few-shot Learning, Meta Learning.'
+name = "David Shriver"
+degree = "PhD"
+year = "3rd"
+advisor = "Sebastian Elbaum"
+bio = "David Shriver is a third year computer science PhD student at the University of Virginia, advised by Sebastian Elbaum. He received his BS in computer engineering and a Masters in computer science from the University of Nebraska-Lincoln. His research interests include analysis, verification, and validation of machine learning systems, particularly deep neural networks. In his free time, he enjoys swimming and hiking.."
+photo_url = "/images/blank.png"
+category = "Artificial Intelligence, Software Engineering"
+keywords = "Software Engineering, Formal Methods, Machine Learning, Deep Neural Networks"
 
 [[card]]
-    name = 'Anshuman Suri'
-    degree = 'PhD'
-    year = '2nd'
-    advisor = 'David Evans'
-    bio = 'Personal website: http://iamgroot42.github.io/'
-    photo_url = "/images/bios/ht_zoom - Anshuman Suri.jpg"
-    category = 'Artificial Intelligence, Security'
-    keywords = 'adversarial machine learning, computer vision, deep learning.'
-
+name = "Meriel Stein"
+degree = "PhD"
+year = "2nd"
+advisor = "Sebastian Elbaum"
+bio = "Meriel is a second year PhD student at the University of Virginia. She previously received a B.A. in art history from Oberlin College. Her research focuses on dependable unmanned autonomous systems investigated through a software engineering lens."
+photo_url = "/images/blank.png"
+category = "Cyber-Physical Systems, Software Engineering"
+keywords = "Software testing, Fault isolation, Test generation and validation."
 
 [[card]]
-    name = 'Peter Le'
-    degree = 'MS'
-    year = '1st'
-    advisor = 'Benton Calhoun'
-    bio = 'Personal website: http://iamgroot42.github.io/'
-    photo_url = "/images/bios/PeterLeUVAPhotoColor - Peter Le.png"
-    category = 'Computer Systems, Architecture and Networks'
-    keywords = 'Transceiver Localization/FPGA Design'
+name = "Anshuman Suri"
+degree = "PhD"
+year = "2nd"
+advisor = "David Evans"
+bio = "Personal website: http://iamgroot42.github.io/"
+photo_url = "/images/bios/ht_zoom - Anshuman Suri.jpg"
+category = "Artificial Intelligence, Security"
+keywords = "adversarial machine learning, computer vision, deep learning."
 
+[[card]]
+name = "Trey Woodlief"
+degree = "PhD"
+year = "2nd"
+advisor = "Sebastian Elbaum"
+bio = "Trey Woodlief is a second year PhD student in Computer Science at the University of Virginia. He previously received his B.S. in Computer Science and Electrical and Computer Engineering from North Carolina State University. Trey is interested in robotics, especially system testing and verification. In his free time, Trey volunteers for FIRST robotics, enjoys cheering on the Nats and Canes, and exploring Charlottesville with his wife, Jordan."
+photo_url = "/images/bios/trey.jpg"
+category = "Cyber-Physical Systems, Software Engineering"
+keywords = "Robotics, Testing, Autonomous Systems"
 
+[[card]]
+name = "Peiyi Yang"
+degree = "MCS"
+year = "1st"
+advisor = "Aidong Zhang"
+bio = "Peiyi Yang is a first year MCS student at UVA. She previously received her B.S. in Software Engineering from the Northeastern University. Her research interests include computer vision, distributed systems and cloud computing."
+photo_url = "/images/blank.png"
+category = "Computer Systems, Architecture and Networks, Artificial Intelligence"
+keywords = "Computer Vision, Distributed System, Cloud Computing"
 
+[[card]]
+name = " Wen Ying"
+degree = "MS"
+year = "2nd"
+advisor = "Seongkook Heo"
+bio = "Wen is a second-year CS MS student at the University of Virginia. She will continue her PhD program in Computer Science at Uva. She is interested in the haptic devices in human computer interaction. In her free time, she enjoys writing novels."
+photo_url = "/images/bios/wenying.jpeg"
+category = "Human-Computer Interaction"
+keywords = "Haptic devices."
 
-
+[[card]]
+name = "Guangtao Zheng"
+degree = "PhD"
+year = "1st"
+advisor = "Aidong Zhang"
+bio = "Guangtao Zheng is a first year CS PhD student at the University of Virginia. He received his M.Eng. in Electrical Engineering from the University of Science and Technology of China in 2018, and B.S. in Electrical Engineering from the Sun Yat-Sen University in 2015. He is interested in meta-learning, natural language processing, with the focus on generalization and interpretability."
+photo_url = "/images/blank.png"
+category = "Artificial Intelligence"
+keywords = "Meta-learning, few-shot classification"
 
