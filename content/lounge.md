@@ -5,7 +5,7 @@ draft: false
 layout: "nodate"
 ---
 
-The CS Graduate Student Lounge is room Rice 436. Feel free to use this space when taking a break from the gruelling working hours of the day. Have lunch with your friends (real or imaginary), hold philosophical discussion ("What is meaning of life?"), or try and find zen (if you believe it exists).
+The CS Graduate Student Lounge is room Rice 434. Feel free to use this space when taking a break from the gruelling working hours of the day. Have lunch with your friends (real or imaginary), hold philosophical discussion ("What is meaning of life?"), or try and find zen (if you believe it exists).
 
 **Location:** Rice 434
 
