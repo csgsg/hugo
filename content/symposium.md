@@ -108,7 +108,7 @@ Session 3 Review Form: https://forms.gle/bhqhrjiZBn1C3yVb7
 
 
 ## Student Bios
-View the student bios [here](/sympbios)
+View the student bios [here](/bios)
 
 ## Organizing Committe:
 <br>Omkar Bhat, Prathyush Sambaturu, and Ruchir Shah  
