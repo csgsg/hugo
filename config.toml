@@ -6,54 +6,50 @@ publishDir = "public"
 
 
 [params]
-    name = "CSGSG"
-    description = "Computer Science Department Graduate Student Group"
-    description2 = "at the University of Virginia"
-    address = "85 Engineer's Way, Charlottesville, VA 22904"
-    year = 2020
-    background = ""
-    favicon = "images/favicon.ico"
-    DateForm = "January 2, 2006"
+name = "CSGSG"
+description = "Computer Science Department Graduate Student Group"
+description2 = "at the University of Virginia"
+address = "85 Engineer's Way, Charlottesville, VA 22904"
+year = 2020
+background = ""
+favicon = "images/favicon.ico"
+DateForm = "January 2, 2006"
 
-    showSubheader = false
-    showUpcoming = true
-    showRecentWorks = false
-    showDownload = false
-    showClients = true
+showSubheader = false
+showUpcoming = true
+showRecentWorks = false
+showDownload = false
+showClients = true
 
-    footerEnableContact = false
-    footerEnableFollowme = false
-    footerEnableTextWidget = false
-    footerEnableFormWidget = false
+footerEnableContact = false
+footerEnableFollowme = false
+footerEnableTextWidget = false
+footerEnableFormWidget = false
 
-    google_analytics_trackerID = "UA-113000385-1"
+google_analytics_trackerID = "UA-113000385-1"
 
 
 [[menu.main]]
-    name = "home"
-    url = "/"
-    weight = 1
+name = "home"
+url = "/"
+weight = 1
 [[menu.main]]
-    name = "Lounge"
-    url = "/lounge"
-    weight = 3
+name = "Lounge"
+url = "/lounge"
+weight = 3
 [[menu.main]]
-    name = "About"
-    url = "/about"
-    weight = 6
+name = "About"
+url = "/about"
+weight = 6
 [[menu.main]]
-    name = "Helpful Information"
-    url = "/information"
-    weight = 7
+name = "Helpful Information"
+url = "/information"
+weight = 7
 [[menu.main]]
-    name = "Resources"
-    url = "/resources"
-    weight = 8
+name = "Resources"
+url = "/resources"
+weight = 8
 [[menu.main]]
-    name = "Fellowships"
-    url = "/fellowships"
-    weight = 9
-[[menu.main]]
-    name = "Bios"
-    url = "/bios"
-    weight = 10
+name = "Fellowships"
+url = "/fellowships"
+weight = 9
