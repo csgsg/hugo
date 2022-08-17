@@ -1,50 +1,44 @@
 [[card]]
-    name = 'Xida Ren'
-    title = 'Chair'
-    photo_url = "images/committee/xida.png"
+name = 'Rory McDaniel'
+title = 'Chair'
+photo_url = "images/committee/rory.jpg"
 [[card]]
-    name = 'Yasunari Kato'
-    title = 'Diversity Rep'
-    photo_url = "images/committee/yasunari.jpg"
-    website = ''
+name = 'Hanjie Chen'
+title = 'Diversity Rep'
+photo_url = "images/committee/hanjie.jpg"
+website = 'https://www.cs.virginia.edu/~hc9mx/'
 [[card]]
-    name = 'Josie Lamp'
-    title = 'Grad Program Rep'
-    photo_url = "images/committee/josie.jpg"
-    website = 'https://www.josephinelamp.com/'
+name = 'Tonmoy Hossain'
+title = 'Grad Program Rep'
+photo_url = "images/committee/tonmoy.jpg"
+website = 'https://tonmoy-hossain.github.io/'
 [[card]]
-    name = 'Aidan San'
-    title = 'Space Rep'
-    photo_url = "images/committee/aidan.jpg"
-    website = 'https://aidansan.github.io/'
+name = 'Oishee Bintey Hoque'
+title = 'Space and Media Rep'
+photo_url = "images/committee/oishee.jpg"
+website = 'https://oishee-hoque.github.io/'
 [[card]]
-    name = 'Rory McDaniel'
-    title = 'Systems Rep'
-    photo_url = "images/committee/rory.jpg"
-    website = ''
+name = 'Matt Clark'
+title = 'Social Rep'
+photo_url = "images/committee/matt.jpg"
 [[card]]
-    name = 'Ingy Elsayed-Aly'
-    title = 'Social Rep'
-    photo_url = "images/committee/ingy.jpeg"
-    website = 'https://github.com/IngyN'
+name = 'Carl Hildebrandt'
+title = 'Leadership Rep'
+photo_url = "images/committee/carl.png"
 [[card]]
-    name = 'Soneya Binta Hossain'
-    title = 'Leadership Rep'
-    photo_url = "images/committee/soneya.png"
-    website = 'https://soneyahossain.github.io'
+name = 'Meriel Stein'
+title = 'Mentoring Rep'
+photo_url = "images/committee/meriel.jpg"
+website = 'https://missmeriel.github.io/'
 [[card]]
-    name = 'Nusrat Jahan Mozumder'
-    title = 'Mentoring Rep'
-    photo_url = "images/blank.png"
+name = 'Robbie Hott'
+title = 'Faculty Advisor'
+photo_url = 'images/committee/robbie_hott.jpg'
+website = 'http://www.cs.virginia.edu/~jh2jf/'
 [[card]]
-    name = 'Robbie Hott'
-    title = 'Faculty Advisor'
-    photo_url = 'images/committee/robbie_hott.jpg'
-    website = 'http://www.cs.virginia.edu/~jh2jf/'
-[[card]]
-    name = 'Sebastian Elbaum'
-    title = 'Omsbudsperson'
-    photo_url = "images/committee/sebastian.jpg"
-    website = 'http://www.cs.virginia.edu/~se4ja/'
+name = 'Sebastian Elbaum'
+title = 'Omsbudsperson'
+photo_url = "images/committee/sebastian.jpg"
+website = 'http://www.cs.virginia.edu/~se4ja/'
 
 
