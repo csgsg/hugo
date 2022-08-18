@@ -13,15 +13,6 @@ title = 'Grad Program Rep'
 photo_url = "images/committee/tonmoy.jpg"
 website = 'https://tonmoy-hossain.github.io/'
 [[card]]
-name = 'Oishee Bintey Hoque'
-title = 'Space and Media Rep'
-photo_url = "images/committee/oishee.jpg"
-website = 'https://oishee-hoque.github.io/'
-[[card]]
-name = 'Matt Clark'
-title = 'Social Rep'
-photo_url = "images/committee/matt.jpg"
-[[card]]
 name = 'Carl Hildebrandt'
 title = 'Leadership Rep'
 photo_url = "images/committee/carl.png"
@@ -30,6 +21,15 @@ name = 'Meriel Stein'
 title = 'Mentoring Rep'
 photo_url = "images/committee/meriel.jpg"
 website = 'https://missmeriel.github.io/'
+[[card]]
+name = 'Matt Clark'
+title = 'Social Rep'
+photo_url = "images/committee/matt.jpg"
+[[card]]
+name = 'Oishee Bintey Hoque'
+title = 'Space and Media Rep'
+photo_url = "images/committee/oishee.jpg"
+website = 'https://oishee-hoque.github.io/'
 [[card]]
 name = 'Robbie Hott'
 title = 'Faculty Advisor'
