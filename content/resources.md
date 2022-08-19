@@ -37,10 +37,8 @@ layout: "nodate"
 
 ## Anonymous Feedback Form
 
-    Do you have any questions, comments, or suggestions for  CSGSG or the CS department? Provide any feedback you may have by [clicking here](https://forms.gle/wmd72fXP44TuVqrN6).
+Do you have any questions, comments, or suggestions for  CSGSG or the CS department? Provide any feedback you may have by [clicking here](https://forms.gle/wmd72fXP44TuVqrN6).
 
 ## Social Media
 
-    - Join our [Discord channel here](https://discord.gg/uQu8wey5Uk)
-
-
+- Join our [Discord channel here](https://discord.gg/uQu8wey5Uk)
