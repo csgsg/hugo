@@ -29,6 +29,7 @@ layout: "nodate"
 
 - UVA has free access to most big literature/publication venues (ACM, IEEE etc.) when you are on their wifi. You can still get access by installing and using the UVA VPN or proxy. Both available [here](https://www.library.virginia.edu/services/off-grounds-access/)
 
+- [New Student Presentation](/documents/CSGSG_Intro.pdf)
 
 
 
@@ -36,8 +37,10 @@ layout: "nodate"
 
 ## Anonymous Feedback Form
 
-Do you have any questions, comments, or suggestions for  CSGSG or the CS department? Provide any feedback you may have by [clicking here](https://forms.gle/wmd72fXP44TuVqrN6).
+    Do you have any questions, comments, or suggestions for  CSGSG or the CS department? Provide any feedback you may have by [clicking here](https://forms.gle/wmd72fXP44TuVqrN6).
 
 ## Social Media
 
-- Join our [Discord channel here](https://discord.gg/uQu8wey5Uk)
+    - Join our [Discord channel here](https://discord.gg/uQu8wey5Uk)
+
+
