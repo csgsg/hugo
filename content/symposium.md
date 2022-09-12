@@ -12,6 +12,7 @@ layout: "nodate"
 
 | Time &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | Plan | Presenter |
 | --- | --- | --- | --- |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | | |
 | 9:00 - 9:20  | Check in + Breakfast |  |
 | 9:20 - 9:30 |  Welcome and Intro | Rory |
 | 9:30 - 11:20  | The PhD Process | Hosted: Carl |
