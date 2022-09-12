@@ -10,7 +10,7 @@ layout: "nodate"
 
 ## Schedule
 
-| Time &nbsp;&nbsp;&nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | Plan | Presenter |
+| Time &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | Plan | Presenter |
 | --- | --- | --- | --- |
 | 9:00 - 9:20  | Check in + Breakfast |  |
 | 9:20 - 9:30 |  Welcome and Intro | Rory |
