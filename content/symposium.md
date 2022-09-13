@@ -25,7 +25,7 @@ layout: "nodate"
 | 12:45 | 1:30          | Poster Session 2                                                                                  |                                   |
 | 1:30  | 1:40          | Break                                                                                             |                                   |
 | 1:40  | 4:00          | Core Research Areas                                                                               |                                   |
-| 1:40  | 2:00          | Computer Systems Architecture                                                                     | Felix Xiaozhu Lin                |
+| 1:40  | 2:00          | Computer Systems Architecture                                                                     | Felix Xiaozhu Lin                 |
 | 2:00  | 2:20          | Cyber Physical Systems                                                                            | Madhur Behl                       |
 | 2:20  | 2:40          | Theory                                                                                            | Anil Vullikanti                   |
 | 2:40  | 2:50          | Break                                                                                             |                                   |
@@ -34,5 +34,5 @@ layout: "nodate"
 | 3:30  | 3:50          | Artificial Intelligence                                                                           | Yangfeng Ji                       |
 | 3:50  | 4:10          | Direction moving forward                                                                          | Sandhya Dwarkadas                 |
 | 4:10  | 4:15          | Break                                                                                             |                                   |
-| 4:15  | 4:25          | Closing and awards                                                                                |  Carl                             |
+| 4:15  | 4:25          | Closing and awards                                                                                | Carl                              |
 {{</table>}}
