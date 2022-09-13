@@ -30,7 +30,7 @@ layout: "nodate"
 | 2:20 - 2:40     | Theory                                                                                          | Anil Vullikanti |
 | 2:40 - 2:50     | Break                                                                                           |  |
 | 2:50 - 3:10     | Security                                                                                        | Jack Davidson |
-  | 3:10 - 3:30     | Software Engineering                                                                          | Matthew Dwyer |
+| 3:10 - 3:30     | Software Engineering                                                                            | Matthew Dwyer |
 | 3:30 - 3:50     | Artificial Intelligence                                                                         | Yangfeng Ji |
 | 3:50 - 4:10     | Direction moving forward                                                                        | Sandhya Dwarkadas |
 | 4:10 - 4:15     | Break                                                                                           |  |
