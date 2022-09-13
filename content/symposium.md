@@ -1,5 +1,5 @@
 ---
-title: "2022 CSGSG Research Symposium - Monday, October 3, 9:00 - 4:15"
+title: "2022 CSGSG Research Symposium - Monday, October 3, 9:00 - 4:30"
 draft: false
 layout: "nodate"
 ---
