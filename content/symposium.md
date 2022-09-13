@@ -3,7 +3,7 @@ title: "2022 CSGSG Research Symposium - Monday, October 3, 9:00 - 4:15"
 draft: false
 layout: "nodate"
 ---
-**Date:** Monday, October 3, 9:00 - 4:15
+**Date:** Monday, October 3, 9:00 - 4:30
 
 **Sign-Up:** https://forms.gle/CWfQmxWorPtM4vQs8
 
@@ -25,7 +25,7 @@ layout: "nodate"
 | 12:45 | 1:30          | Poster Session 2                                                                                  |                                   |
 | 1:30  | 1:40          | Break                                                                                             |                                   |
 | 1:40  | 4:00          | Core Research Areas                                                                               |                                   |
-| 1:40  | 2:00          | Computer Systems Architecture                                                                     | Lin, Felix Xiaozhu                |
+| 1:40  | 2:00          | Computer Systems Architecture                                                                     | Felix Xiaozhu Lin                |
 | 2:00  | 2:20          | Cyber Physical Systems                                                                            | Madhur Behl                       |
 | 2:20  | 2:40          | Theory                                                                                            | Anil Vullikanti                   |
 | 2:40  | 2:50          | Break                                                                                             |                                   |
