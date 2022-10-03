@@ -49,11 +49,11 @@ layout: "nodate"
 | Trey Woodlief  | Test Generation for LiDAR Perception Systems |
 | Will Leeson  | SMT Solver Selection Via Graph Neural Networks |
 | Yizhe Zhang, Hongying Dong  | Aggregation-based Beaconing Detection across Large Campus Networks |
-| Akhil Shekar |
-| Ashley Gao |
-| Hamza Khalid |
-| Muhammad Shoaib |
-| Sanchit Sinha |
+| Akhil Shekar | | 
+| Ashley Gao | | 
+| Hamza Khalid | | 
+| Muhammad Shoaib | | 
+| Sanchit Sinha | | 
 {{</table>}}
 
 ## Poster Session 2:
@@ -68,11 +68,11 @@ layout: "nodate"
 | Meriel Stein  | Determining Property Violations through Network Falsification: A Case Study of OpenPilot |
 | Steven Lamp  | DOLOS: Self-camouflaging Realistic User Emulation for a Robust Cyber Range |
 | Tushar Routh  | Low Power Passive Sensing of On Screen Activities |
-| Carl Hildebrandt |
-| Di Zhu |
-| Fateme Nikseresht |
-| Khyati Kiyawat |
-| Nurani Saoda |
+| Carl Hildebrandt | | 
+| Di Zhu | | 
+| Fateme Nikseresht | | 
+| Khyati Kiyawat | | 
+| Nurani Saoda | | 
 {{</table>}}
 
 ## Awards
