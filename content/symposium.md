@@ -44,22 +44,24 @@ layout: "nodate"
 | Felipe Toledo  | Automatic Generation of Entity-Based Properties for DNNs |
 | Ingy ElSayed-Aly  | Logic-based Reward Shaping for Multi-Agent Reinforcement Learning |
 | Liwei Guo  | Turbocharge Interactive NLP at the Edge |
+| Muhammad Shoaib | Attack Story Reconstruction in the AR/VR Ecosystem |
 | Nicholas Phair | Concept-Based Full Stack Modularity |
 | Stephanie Schoch  | CS-Shapley: Class-wise Shapley Values for Data Valuation in Classification |
 | Trey Woodlief  | Test Generation for LiDAR Perception Systems |
 | Will Leeson  | SMT Solver Selection Via Graph Neural Networks |
 | Yizhe Zhang, Hongying Dong  | Aggregation-based Beaconing Detection across Large Campus Networks |
-| Akhil Shekar | | 
-| Ashley Gao | | 
-| Hamza Khalid | | 
-| Muhammad Shoaib | | 
-| Sanchit Sinha | | 
+| Akhil Shekar | |
+| Ashley Gao | |
+| Hamza Khalid | |
+| Sanchit Sinha | |
 {{</table>}}
 
 ## Poster Session 2:
 {{<table "table table-striped table-bordered">}}
 | | |
 | --- | --- |
+| Carl Hildebrandt | Mimicking Real Forces on a Drone Through a Haptic Suit to Enable Cost-Effective Validation |
+| Di Zhu | Interpreting County Level COVID-19 Infection and Feature Sensitivity using Deep Learning Time Series Models |
 | Farzana Ahmed Siddique  | CacheMorph: A Multilateral Access Pattern Aware CPU Cache Architecture |
 | Jiechao Gao  | Towards Personalized and Private Smart City Applications |
 | Josie Lamp  | GlucoSynth: Generating Differentially Private Synthetic Glucose Data |
@@ -68,11 +70,9 @@ layout: "nodate"
 | Meriel Stein  | Determining Property Violations through Network Falsification: A Case Study of OpenPilot |
 | Steven Lamp  | DOLOS: Self-camouflaging Realistic User Emulation for a Robust Cyber Range |
 | Tushar Routh  | Low Power Passive Sensing of On Screen Activities |
-| Carl Hildebrandt | | 
-| Di Zhu | | 
-| Fateme Nikseresht | | 
-| Khyati Kiyawat | | 
-| Nurani Saoda | | 
+| Fateme Nikseresht | |
+| Khyati Kiyawat | |
+| Nurani Saoda | |
 {{</table>}}
 
 ## Awards
