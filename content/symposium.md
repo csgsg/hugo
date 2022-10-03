@@ -52,7 +52,6 @@ layout: "nodate"
 | Yizhe Zhang, Hongying Dong  | Aggregation-based Beaconing Detection across Large Campus Networks |
 | Akhil Shekar | |
 | Ashley Gao | |
-| Hamza Khalid | |
 | Sanchit Sinha | |
 {{</table>}}
 
@@ -61,12 +60,11 @@ layout: "nodate"
 | | |
 | --- | --- |
 | Carl Hildebrandt | Mimicking Real Forces on a Drone Through a Haptic Suit to Enable Cost-Effective Validation |
-| Di Zhu | Interpreting County Level COVID-19 Infection and Feature Sensitivity using Deep Learning Time Series Models |
+| Di Zhu and Md. Khairul Islam   | Interpreting County Level COVID-19 Infection and Feature Sensitivity using Deep Learning Time Series Models |
 | Farzana Ahmed Siddique  | CacheMorph: A Multilateral Access Pattern Aware CPU Cache Architecture |
 | Jiechao Gao  | Towards Personalized and Private Smart City Applications |
 | Josie Lamp  | GlucoSynth: Generating Differentially Private Synthetic Glucose Data |
 | Md Aashikur Rahman Azim | UnifiedSense: Enabling Without-Device Gesture Interactions Using Over-the-shoulder Training Between Redundant Wearable Sensors |
-| Md. Khairul Islam  | Interpreting County Level COVID-19 Infection and Feature Sensitivity using Deep Learning Time Series Models |
 | Meriel Stein  | Determining Property Violations through Network Falsification: A Case Study of OpenPilot |
 | Steven Lamp  | DOLOS: Self-camouflaging Realistic User Emulation for a Robust Cyber Range |
 | Tushar Routh  | Low Power Passive Sensing of On Screen Activities |
