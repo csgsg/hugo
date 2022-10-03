@@ -35,7 +35,8 @@ layout: "nodate"
 | 4:15  | 4:25          | Closing and awards                                                                                | Carl                              |
 {{</table>}}
 
-Poster Session 1: 11:30 - 12:15
+## Poster Session 1: 11:30 - 12:15
+{{<table "table table-striped table-bordered">}}
 | | |
 | --- | --- |
 | Christopher Morse  | A Framework for the Unsupervised Inference of Relations Between Sensed Object Spatial Distributions and Robot Behaviors |
@@ -55,7 +56,8 @@ Poster Session 1: 11:30 - 12:15
 | Sanchit Sinha |
 
 
-Poster Session 2:
+## Poster Session 2:
+{{<table "table table-striped table-bordered">}}
 | | |
 | --- | --- |
 | Farzana Ahmed Siddique  | CacheMorph: A Multilateral Access Pattern Aware CPU Cache Architecture |
