@@ -54,7 +54,7 @@ layout: "nodate"
 | Hamza Khalid |
 | Muhammad Shoaib |
 | Sanchit Sinha |
-
+{{</table>}}
 
 ## Poster Session 2:
 {{<table "table table-striped table-bordered">}}
@@ -73,5 +73,6 @@ layout: "nodate"
 | Fateme Nikseresht |
 | Khyati Kiyawat |
 | Nurani Saoda |
+{{</table>}}
 
-
+## Awards

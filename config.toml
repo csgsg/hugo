@@ -53,3 +53,7 @@ weight = 8
 name = "Fellowships"
 url = "/fellowships"
 weight = 9
+[[menu.main]]
+name = "Symposium"
+url = "/symposium"
+weight = 10
